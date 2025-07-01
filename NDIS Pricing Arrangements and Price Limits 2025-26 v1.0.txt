@@ -2,22 +2,22 @@ National Disability Insurance Scheme
 Pricing Arrangements
 and
 Price Limits
-2024-25
-Pricing Arrangements valid from 1 October 2024
-Version: 1.3
-(Released 1 October 2024)
+2025-26
+Pricing Arrangements valid from 1 July 2025
+Version: 1.0
+(Released 16 June 2025)
 ndis.gov.au
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 2 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 2 of 103
 Copyright
-© National Disability Insurance Agency 2024
+© National Disability Insurance Agency 2025
 Use of National Disability Insurance Agency copyright material
 The material in this document with the exception of logos, trademarks, third party material and
 other content as specified is licensed under Creative Commons CC NC licence, version 4.0. With
 the exception of logos, trademarks, third party material and other content as specified, you may
 reproduce the material in this document, provided you acknowledge the National Disability
 Insurance Agency as the owner of all intellectual property rights in the reproduced material by
-using ‘© National Disability Insurance Agency 2024’ and do not use the material for commercial
+using ‘© National Disability Insurance Agency 2025’ and do not use the material for commercial
 purposes.
 Reproduction of any Creative Commons material in this document is subject to the CC NC licence
 conditions available on the Creative Commons site, as is the full legal code for this material.
@@ -28,174 +28,167 @@ Version Control
 This document is subject to change. The latest version of this document is available on the NDIS
 website.
 Version Page(s) Details of Amendment Date Published Date of Effect
-1.3 38 Introduction of Intensive and Complex Behaviour supports
-policy
-1 October 2024 1 October 2024
-1.3 23 Short notice cancellation period has been clarified from 7
-business day to 7 days. An additional example is provided
-demonstrating the policy’s application.
-1 October 2024 1 October 2024
-1.3 55, 56,
-75, 86 -
-89
-Claiming clarification regarding provisional psychologist. 1 October 2024 1 October 2024
-A table setting out all previous updates to this document can be found on page 97.
+1.0 NA NDIS Pricing Arrangements and Price Limits 2025-26 16 June 2025 1 July 2025
+A table setting out all previous updates to this document can be found on page 103.
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 3 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 3 of 103
 Contents
-Introduction ................................................................................................................................... 7
-Price regulation documents ...................................................................................................... 7
-NDIS Pricing Arrangements and Price Limits .................................................................... 7
-NDIS Support Catalogue ................................................................................................... 7
-Addenda to the NDIS Pricing Arrangements and Price Limits ........................................... 7
-NDIS Pricing Arrangements for Specialist Disability Accommodation ................................ 8
-NDIS Assistive Technology, Home Modifications and Consumables Code Guide ............. 8
-NDIS Disability Support Worker Cost Model ...................................................................... 8
-Priority of Interpretation ..................................................................................................... 8
-Applicability of Price Limits ....................................................................................................... 9
-Agency Managed Participants ........................................................................................... 9
-Plan Managed Participants.............................................................................................. 10
-Self-managing Participants.............................................................................................. 10
-Support Purposes, Support Categories and Support Items .................................................... 11
-Support Items......................................................................................................................... 11
-Support Purposes .................................................................................................................. 11
-Support Categories aligned to the NDIS Outcomes Framework ............................................. 11
-Registration Groups ............................................................................................................... 12
-Units of Measure .................................................................................................................... 13
-General Claiming Rules .............................................................................................................. 14
-Service Agreements ............................................................................................................... 14
-Service Bookings ................................................................................................................... 14
-Claiming for support items that are subject to quotation ......................................................... 15
-Claiming for support items that have a price limit ................................................................... 15
-Claiming for support items that do not have a price limit......................................................... 15
-Time of Day and Day of Week................................................................................................ 15
-Night-Time Sleepover supports ....................................................................................... 17
-Claiming for Telehealth Services ............................................................................................ 17
-Claiming for Non-direct Services ............................................................................................ 17
-Non-Face-to-Face Support Provision .............................................................................. 17
-Provider Travel ................................................................................................................ 18
-Short Notice Cancellations .............................................................................................. 23
-NDIA Requested Reports ................................................................................................ 24
-Claiming for Activity Based Transport..................................................................................... 25
-Activity Based Transport – Social, Economic and Community Participation Supports ..... 25
+Introduction ................................................................................................................................... 8
+Price regulation documents ...................................................................................................... 8
+NDIS Pricing Arrangements and Price Limits .................................................................... 8
+NDIS Support Catalogue ................................................................................................... 8
+Addenda to the NDIS Pricing Arrangements and Price Limits ........................................... 8
+NDIS Pricing Arrangements for Specialist Disability Accommodation ................................ 9
+NDIS Assistive Technology, Home Modifications and Consumables Code Guide ............. 9
+NDIS Disability Support Worker Cost Model ...................................................................... 9
+Priority of Interpretation ..................................................................................................... 9
+Applicability of Price Limits ..................................................................................................... 10
+Agency Managed Participants ......................................................................................... 10
+Plan Managed Participants.............................................................................................. 11
+Self-managing Participants.............................................................................................. 11
+Support Purposes, Support Categories and Support Items .................................................... 12
+Support Items......................................................................................................................... 12
+Support Purposes .................................................................................................................. 12
+Support Categories aligned to the NDIS Outcomes Framework ............................................. 12
+Registration Groups ............................................................................................................... 14
+Units of Measure .................................................................................................................... 14
+General Claiming Rules .............................................................................................................. 16
+Conflicts of Interest in the NDIS Provider Market.................................................................... 16
+Service Agreements ............................................................................................................... 16
+Service Bookings ................................................................................................................... 17
+My providers .......................................................................................................................... 17
+Claiming for support items that are subject to quotation ......................................................... 18
+Claiming for support items that have a price limit ................................................................... 18
+Claiming for support items that do not have a price limit......................................................... 19
+Time of Day and Day of Week................................................................................................ 19
+Night-Time Sleepover supports ....................................................................................... 20
+Claiming for Telehealth Services ............................................................................................ 20
+Claiming for Non-direct Services ............................................................................................ 21
+Non-Face-to-Face Support Provision .............................................................................. 21
+Provider Travel ................................................................................................................ 22
+Short Notice Cancellations .............................................................................................. 27
+NDIA Requested Reports ................................................................................................ 28
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 4 of 97
-Activity Based Transport – Capacity Building Supports ................................................... 27
-Regional, Remote and Very Remote Areas ............................................................................ 28
-Modified Monash Model .................................................................................................. 28
-Pricing Arrangements in Regional, Remote and Very Remote Areas .............................. 30
-Claiming for Group-Based Supports ....................................................................................... 30
-Programs of Support .............................................................................................................. 31
-Claiming for Centre Capital Costs .......................................................................................... 31
-Claiming for Establishment Fees for Personal Care/Participation Supports ............................ 32
-Claiming for Irregular SIL Supports ........................................................................................ 33
-Claiming for more than one worker or therapist ...................................................................... 33
-Shadow Shifts ................................................................................................................. 34
-Supervision / Specific Training for Therapy Assistants .................................................... 34
-Case Conferences for Therapists .................................................................................... 34
-Other Considerations ............................................................................................................. 34
-Supports must be Reasonable and Necessary ................................................................ 34
-Medicare and Insurance .................................................................................................. 35
-Expenses Related to Recreational Pursuits ..................................................................... 35
-Prepayments ................................................................................................................... 35
-Subscription services ...................................................................................................... 36
-Co-payments for Capital items, including Assistive Technology ...................................... 37
-Other Fees and Charges ................................................................................................. 37
-Goods and Services Tax (GST)....................................................................................... 37
-Special NDIS Pricing Arrangements .......................................................................................... 38
-High Intensity Supports .......................................................................................................... 38
-Implementing Intensive and Complex Behaviour Supports..................................................... 38
-Disability-Related Health Supports ......................................................................................... 38
-Coronavirus (COVID-19) Response ....................................................................................... 39
-Core – Assistance with Daily Life .............................................................................................. 40
-Daily Personal Activities ......................................................................................................... 40
-Assistance with Self Care Activities ................................................................................. 40
-Assistance with Self Care Activities – Night-Time Sleepover Support.............................. 41
-Assistance from Live-in Carer ......................................................................................... 41
-Assistance with Personal Domestic Activities .................................................................. 41
-On-Call Overnight Monitoring .......................................................................................... 42
-High Intensity Daily Personal Activities................................................................................... 42
-Assistance with Self Care Activities ................................................................................. 42
-Specialised Home-Based Assistance for a Child ............................................................. 43
-Assistance with household tasks ............................................................................................ 43
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 4 of 103
+Claiming for Activity Based Transport..................................................................................... 29
+Activity Based Transport – Social, Economic and Community Participation Supports ..... 29
+Activity Based Transport – Capacity Building Supports ................................................... 31
+Regional, Remote and Very Remote Areas ............................................................................ 32
+Modified Monash Model .................................................................................................. 32
+Pricing Arrangements in Regional, Remote and Very Remote Areas .............................. 34
+Claiming for Group-Based Supports ....................................................................................... 34
+Programs of Support .............................................................................................................. 35
+Claiming for Centre Capital Costs .......................................................................................... 35
+Claiming for Establishment Fees for Personal Care/Participation Supports ............................ 36
+Claiming for Irregular SIL Supports ........................................................................................ 37
+Claiming for more than one worker or therapist ...................................................................... 37
+Shadow Shifts ................................................................................................................. 38
+Supervision / Specific Training for Therapy Assistants .................................................... 38
+Case Conferences for Therapists .................................................................................... 38
+Other Considerations ............................................................................................................. 38
+Supports must be Reasonable and Necessary ................................................................ 38
+Medicare and Insurance .................................................................................................. 39
+Expenses Related to Recreational Pursuits ..................................................................... 39
+Prepayments ................................................................................................................... 39
+Subscription services ...................................................................................................... 40
+Co-payments for Capital items, including Assistive Technology ...................................... 41
+Other Fees and Charges ................................................................................................. 41
+Goods and Services Tax (GST)....................................................................................... 41
+Special NDIS Pricing Arrangements .......................................................................................... 42
+High Intensity Supports .......................................................................................................... 42
+Implementing Intensive and Complex Behaviour Supports..................................................... 42
+Disability-Related Health Supports ......................................................................................... 42
+Coronavirus (COVID-19) Response ....................................................................................... 43
+Core – Assistance with Daily Life .............................................................................................. 44
+Daily Personal Activities ......................................................................................................... 44
+Assistance with Self Care Activities ................................................................................. 44
+Assistance with Self Care Activities – Night-Time Sleepover Support.............................. 45
+Assistance from Live-in Carer ......................................................................................... 45
+Assistance with Personal Domestic Activities .................................................................. 45
+On-Call Overnight Monitoring .......................................................................................... 46
+High Intensity Daily Personal Activities................................................................................... 46
+Assistance with Self Care Activities ................................................................................. 46
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 5 of 97
-Assistance with Household Tasks ................................................................................... 43
-Linen Service .................................................................................................................. 44
-Preparation and Delivery of Meals................................................................................... 44
-Assistance with Daily Life Tasks in a Group or Shared Living Arrangement ........................... 44
-Assistance in Shared Living Arrangements – Supported Independent Living .................. 44
-Short Term Accommodation and Assistance (including the provision of respite care) ..... 47
-Medium Term Accommodation (MTA) ............................................................................. 48
-Residential Aged Care .................................................................................................... 50
-Onsite Shared Supports in SDA ...................................................................................... 50
-Other living arrangements ............................................................................................... 50
-Individualised Living Options .................................................................................................. 51
-Exploration and Design ................................................................................................... 51
-Support Model ................................................................................................................. 51
-Capacity Building and Training in Self-Management and Plan Management .......................... 52
-Disability Related Health Supports ......................................................................................... 53
-Nursing Supports ............................................................................................................ 53
-Therapy Supports and Early Childhood Supports ............................................................ 55
-Core – Transport ......................................................................................................................... 57
-General Transport .................................................................................................................. 57
-Specialised Transport ............................................................................................................ 57
-Core – Consumables .................................................................................................................. 58
-Core – Assistance with Social, Economic and Community Participation ............................... 59
-Assistance to Access Community, Social and Recreational Activities .................................... 59
-Participation in Community, Social and Civic Activities .................................................... 59
-Participation in Community, Social and Civic Activities – High Intensity Supports ........... 59
-Community, Social and Recreational Activities ................................................................ 60
-Group and Centre Based Activities ........................................................................................ 61
-Group and Centre Based Activities – Standard ............................................................... 61
-Group and Centre Based Activities – High Intensity ........................................................ 61
-Supports in Employment ........................................................................................................ 63
-Specialised Supported Employment ................................................................................ 63
-Capital – Assistive Technology ................................................................................................. 65
-Capital – Home Modifications and Specialist Disability Accommodation .............................. 66
-Home Modifications................................................................................................................ 66
-Specialist Disability Accommodation (SDA)............................................................................ 66
-Capacity Building – Support Coordination ............................................................................... 67
-Level 1: Support Connection .................................................................................................. 67
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 5 of 103
+Specialised Home-Based Assistance for a Child ............................................................. 47
+Assistance with household tasks ............................................................................................ 47
+Assistance with Household Tasks ................................................................................... 47
+Linen Service .................................................................................................................. 48
+Preparation and Delivery of Meals................................................................................... 48
+Assistance with Daily Life Tasks in a Group or Shared Living Arrangement ........................... 48
+Assistance in Shared Living Arrangements – Supported Independent Living .................. 48
+Short Term Accommodation and Assistance (including the provision of respite care) ..... 51
+Medium Term Accommodation (MTA) ............................................................................. 52
+Onsite Shared Supports in SDA ...................................................................................... 54
+Other living arrangements ............................................................................................... 54
+Individualised Living Options .................................................................................................. 54
+Exploration and Design ................................................................................................... 54
+Support Model ................................................................................................................. 55
+Capacity Building and Training in Self-Management and Plan Management .......................... 55
+Disability Related Health Supports ......................................................................................... 57
+Nursing Supports ............................................................................................................ 57
+Therapy Supports and Early Childhood Supports ............................................................ 59
+Core – Transport ......................................................................................................................... 61
+General Transport .................................................................................................................. 61
+Specialised Transport ............................................................................................................ 61
+Core – Consumables .................................................................................................................. 62
+Core – Assistance with Social, Economic and Community Participation ............................... 63
+Assistance to Access Community, Social and Recreational Activities .................................... 63
+Participation in Community, Social and Civic Activities .................................................... 63
+Participation in Community, Social and Civic Activities – High Intensity Supports ........... 64
+Community, Social and Recreational Activities ................................................................ 64
+Group and Centre Based Activities ........................................................................................ 65
+Group and Centre Based Activities – Standard ............................................................... 65
+Group and Centre Based Activities – High Intensity ........................................................ 66
+Supports in Employment ........................................................................................................ 67
+Specialised Supported Employment ................................................................................ 67
+Capital – Assistive Technology ................................................................................................. 69
+Capital – Home Modifications and Specialist Disability Accommodation .............................. 70
+Home Modifications................................................................................................................ 70
+Specialist Disability Accommodation (SDA)............................................................................ 70
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 6 of 97
-Level 2: Coordination of Supports .......................................................................................... 68
-Level 3: Specialist Support Coordination ................................................................................ 69
-Psychosocial Recovery Coaches ........................................................................................... 70
-Capacity Building – Improved Living Arrangements................................................................ 71
-Assistance with Accommodation and Tenancy Obligations .................................................... 71
-Capacity Building – Increased Social and Community Participation ...................................... 72
-Assistance in Coordinating or Managing Life Stages, Transitions and Supports .................... 72
-Development of Daily Living and Life Skills ............................................................................ 73
-Innovative Community Participation ....................................................................................... 73
-Community Participation Activities ......................................................................................... 74
-Capacity Building – Finding and Keeping a Job....................................................................... 75
-Employment Related Assessment, Counselling and Advice ................................................... 75
-Employment Assistance including youth aged 15 to 25. ......................................................... 76
-Capacity Building – Improved Relationships ............................................................................ 79
-Specialist Behavioural Intervention Support ........................................................................... 79
-Individual Social Skills Development ...................................................................................... 80
-Capacity Building – Improved Health and Wellbeing ............................................................... 81
-Physical Wellbeing Activities .................................................................................................. 81
-Dietetics ................................................................................................................................. 82
-Capacity Building – Improved Learning .................................................................................... 83
-Transition through School and to Further Education............................................................... 83
-Capacity Building – Improved Life Choices .............................................................................. 84
-Plan Management – Financial Administration Supports.......................................................... 84
-Capacity Building – Improved Daily Living ............................................................................... 85
-Early Childhood Supports (EC) – younger than 7 ................................................................... 85
-Therapy Supports (7 or older) ................................................................................................ 87
-Community Engagement Assistance ............................................................................... 89
-Hearing Supports ................................................................................................................... 90
-Multidisciplinary Team Supports............................................................................................. 91
-Delivery of Disability Related Health Supports by a Nurse ..................................................... 91
-Specialised Driver Training Support ....................................................................................... 93
-Other Supports....................................................................................................................... 93
-Low Cost AT to support Capacity Building support delivery .................................................... 94
-Assistive Technology Mentors (AT Mentors) .......................................................................... 95
-Appendix A: History of Changes............................................................................................. 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 6 of 103
+Capacity Building – Support Coordination ............................................................................... 71
+Level 1: Support Connection .................................................................................................. 71
+Level 2: Coordination of Supports .......................................................................................... 71
+Level 3: Specialist Support Coordination ................................................................................ 73
+Psychosocial Recovery Coaches ........................................................................................... 74
+Capacity Building – Improved Living Arrangements................................................................ 75
+Assistance with Accommodation and Tenancy Obligations .................................................... 75
+Capacity Building – Increased Social and Community Participation ...................................... 76
+Assistance in Coordinating or Managing Life Stages, Transitions and Supports .................... 76
+Development of Daily Living and Life Skills ............................................................................ 77
+Innovative Community Participation ....................................................................................... 77
+Community Participation Activities ......................................................................................... 78
+Capacity Building – Finding and Keeping a Job....................................................................... 79
+Employment Related Assessment, Counselling and Advice ................................................... 79
+Employment Assistance including youth aged 15 to 25. ......................................................... 80
+Capacity Building – Improved Relationships ............................................................................ 84
+Specialist Behavioural Intervention Support ........................................................................... 84
+Individual Social Skills Development ...................................................................................... 85
+Capacity Building – Improved Health and Wellbeing ............................................................... 86
+Physical Wellbeing Activities .................................................................................................. 86
+Dietetics ................................................................................................................................. 87
+Capacity Building – Improved Learning .................................................................................... 88
+Transition through School and to Further Education............................................................... 88
+Capacity Building – Improved Life Choices .............................................................................. 89
+Plan Management – Financial Administration Supports.......................................................... 89
+Capacity Building – Improved Daily Living ............................................................................... 90
+Early Intervention Supports for Early Childhood Supports – younger than 9........................... 90
+Therapy Supports (9 or older) ................................................................................................ 92
+Community Engagement Assistance ............................................................................... 95
+Hearing Supports ................................................................................................................... 95
+Multidisciplinary Team Supports............................................................................................. 96
+Delivery of Disability Related Health Supports by a Nurse ..................................................... 96
+Specialised Driver Training Support ....................................................................................... 99
+Other Supports....................................................................................................................... 99
+Low Cost AT to support Capacity Building support delivery .................................................. 100
+Assistive Technology Mentors (AT Mentors) ........................................................................ 102
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 7 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 7 of 103
+Appendix A: History of Changes........................................................................................... 103
+
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 8 of 103
 Introduction
 The provision of supports for participants in the National Disability Insurance Scheme (NDIS) is
 subject to regulation by the National Disability Insurance Agency (NDIA) and the NDIS Quality and
@@ -237,7 +230,7 @@ use in the event of a participant’s death.
 coronavirus pandemic and the regions and dates the measures are applicable.
 
 Introduction
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 8 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 9 of 103
 NDIS Pricing Arrangements for Specialist Disability Accommodation
 This document sets out the specific pricing arrangements that apply for Specialist Disability
 Accommodation (SDA). Providers of SDA supports are also subject to the general arrangements
@@ -274,7 +267,7 @@ Participants and providers should always refer to the website version of a docum
 seeking to understand pricing arrangements that apply in the NDIS.
 
 Introduction
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 9 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 10 of 103
 Applicability of Price Limits
 Supports can be subject to price regulation in different ways:
 • Price controlled supports should only be claimed by a provider from a participant’s plan
@@ -314,7 +307,7 @@ Limits and its associated documents when submitting a payment request through th
 Provider Portal.
 
 Introduction
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 10 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 11 of 103
 Plan Managed Participants
 Plan managers must adhere to the arrangements prescribed in the NDIS Pricing Arrangements
 and Price Limits, including ensuring that the prices charged by providers do not exceed the price
@@ -336,7 +329,7 @@ Self-managing participants can use registered or unregistered providers and are 
 price limits or other pricing arrangements set out in the NDIS Pricing Arrangements and Price
 Limits and its associated documents.
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 11 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 12 of 103
 Support Purposes, Support Categories and Support Items
 This section describes the way that the NDIS categorises disability supports. These categories can
 be relevant to rules for participants about how they can spend their support budgets, and for
@@ -395,50 +388,92 @@ Support
 Purpose
 
 Support Purposes, Support Categories and Support Items
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 12 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 13 of 103
 NDIS providers should be aware that all supports and services for NDIS participants must
 contribute to the achievement of their individual goals as outlined in the participant’s plan. Support
 purpose categories are designed to align with the Outcomes Framework and the 15 support
-categories. This helps participants choose supports that help them achieve their goals, and
-providers to understand how the supports they provide contribute to the participant’s goals.
+categories with additional categories in the new PACE system. This helps participants choose
+supports that help them achieve their goals, and providers to understand how the supports they
+provide contribute to the participant’s goals.
 The following table shows the links between support purpose types, domains in the Outcomes
-Framework and support categories.
-PURPOSE OUTCOME DOMAIN 1. SUPPORT CATEGORY
-CORE Daily Living
-Daily Living
-Daily Living
-Social and Community Participation
-Work
+Framework and support categories, as well as the new support categories in PACE.
+PURPOSE 
+OUTCOME
+DOMAIN
+SUPPORT CATEGORY
+(LEGACY CRM) 
+SUPPORT CATEGORY (PACE)
+CORE
+Daily Living 
+01 Assistance with Daily
+Life
 01 Assistance with Daily Life
-2. 02 Transport
-3. 03 Consumables
-4. 04 Assistance with Social, Economic and Community Participation
-5. 04 Assistance with Social, Economic and Community Participation
-CAPITAL Daily Living
+16 Home and Living
+21 Young People in Residential Aged Care (YPIRAC)-Cross
+Billing
+Daily Living 02 Transport 02 Transport
+Daily Living 
+03 Consumables 03 Consumables
+Social and
+Community
+Participation
+04 Assistance with Social,
+Economic and Community
+Participation
+04 Assistance with Social, Economic and Community
+Participation
+Work
+04 Assistance with Social,
+Economic and Community
+Participation
+04 Assistance with Social, Economic and Community
+Participation
+CAPITAL
+Daily Living 05 Assistive Technology 05 Assistive Technology
 Home
-05 Assistive Technology
-06 Home Modifications and Specialised Disability Accommodation
-(SDA)
+06 Home Modifications
+and Specialised Disability
+Accommodation (SDA)
+06 Home Modifications
+17 Specialised Disability Accommodation (SDA)
+19 Assistive Technology Maintenance Repair and Rental
+RECURRING Daily Living N/A 18 Recurring Transport
 CAPACITY
 BUILDING
-Choice and Control
-Home
-Social and Community Participation
-Work
-Relationships
-Health and Wellbeing
-Lifelong Learning
-Choice and Control
-Daily Living
-07 Support Coordination
+Choice and Control 07 Support Coordination 
+07 Support Coordination and Psychosocial Recovery
+Coaches
+Home 
+08 Improved Living
+Arrangements 
 08 Improved Living Arrangements
+Social and
+Community
+Participation
+09 Increased Social and
+Community Participation 
 09 Increased Social and Community Participation
+Work 
+10 Finding and Keeping a
+Job 
 10 Finding and Keeping a Job
-11 Improved Relationships
-12 Improved Health and Wellbeing
-13 Improved Learning
-14 Improved Life Choices
+Relationships 11 Improved Relationships
+11 Relationships
+20 Behaviour Support
+Health and
+Wellbeing
+12 Improved Health and
+Wellbeing 
+12 Health and Wellbeing
+Lifelong Learning 13 Improved Learning 13 Lifelong Learning
+Choice and Control 14 Improved Life Choices 14 Choice and Control
+Daily Living 
+15 Improved Daily Living
+Skills 
 15 Improved Daily Living Skills
+
+Support Purposes, Support Categories and Support Items
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 14 of 103
 Registration Groups
 Each support item specifies the Registration Group for which a Registered Provider who delivers
 the support must be registered with the NDIS Quality and Safeguards Commission. There are
@@ -462,10 +497,6 @@ General Registration Groups
 0131 Specialised Disability Accommodation
 0133 Specialised Supported Employment
 0136 Group and Centre Based Activities
-
-Support Purposes, Support Categories and Support Items
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 13 of 97
-Number Registration Group Name
 Professional Registration Groups
 0110 Specialist Positive Behaviour Support
 0114 Community Nursing Care
@@ -492,10 +523,13 @@ Units of Measure
 The NDIS payment system includes units of measure for each support item as follows:
 • Each • Hour • Daily
 • Week • Month • Annual
+
+Support Purposes, Support Categories and Support Items
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 15 of 103
 Providers should ensure that they record claims against a support item using the appropriate unit
 of measure for the support item.
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 14 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 16 of 103
 General Claiming Rules
 Registered Providers can only make a claim for payment for a support once they have delivered or
 provided that support. Where price limits apply to a support, prices charged to participants must
@@ -505,6 +539,17 @@ accurately reflect the supports delivered, including the frequency, volume and t
 Claims need to be made against the specific support item that aligns to the service delivered.
 Falsifying claims for payment is a serious compliance issue and may result in action against the
 provider. Providers are also required to keep accurate records of claims, which are subject to audit.
+Conflicts of Interest in the NDIS Provider Market
+In line with the NDIA Position Statement on Conflicts of Interest in the NDIS Provider Market,
+providers are expected to make all efforts to avoid conflicts of interest. They should declare all
+conflicts of interest when they occur and be open with participants, their supports, or
+representatives with any conflicts of interest and associated risks and discuss options to manage
+these risks. Providers should document strategies for monitoring conflicts of interest.
+The Position Statement states the limited circumstances where a conflict of interest may be
+unavoidable. In such cases, providers should complete a Conflict of Interest Declaration Form. The
+Position Statement, Conflict of Interest Declaration Form and supporting resources are on Conflicts
+of Interest in the NDIS Provider Market page of the NDIS website. For more information, providers
+can refer to the NDIA Position Statement on Conflicts of interest in the NDIS provider market.
 Service Agreements
 A Service Agreement is a formal agreement between a participant and provider. They help to
 ensure there is a shared understanding of:
@@ -524,6 +569,9 @@ can include information such as:
 Providers should not seek to impose conditions on participants through Service Agreements that
 are not in line with those set out in the NDIS Pricing Arrangements and Price Limits and its
 associated documents.
+
+General Claiming Rules
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 17 of 103
 Service Bookings
 Service bookings are used to set aside funding in a participant’s plan for a registered provider for a
 support they will deliver. Service bookings can be made by the participant or provider in the
@@ -535,9 +583,32 @@ possible. This allows providers and participants to negotiate or access supports
 basis, especially for on-the-spot assessments or less predictable support needs. A provider must
 have a service booking in place to make a payment claim in the Portal. Further information
 can be found on the NDIS website.
+My providers
+NDIS Plans in our PACE system don’t have service bookings.
+“My providers” are the providers a participant regularly works with and records as part of their
+NDIS plan.
+By recording a provider, participants are letting us know that a provider can receive payments for
+claims on their NDIS plan.
+Being recorded as my providers means less administration and time spent chasing details and
+following up claims. This is because my providers claims are generally paid within 2 to 3 days.
+Participants can still choose to use any provider, however if a claim is made by a provider who is
+not recorded as my providers, we’ll check with the participant or their nominee by SMS to confirm
+the claim is for a NDIS support they agreed to.
+Only participants who have a plan developed in the PACE system need to record my providers.
+Participants or their nominees with a plan in the PACE system need to tell us who their my
+providers are when they have:
+• NDIA-managed supports funded within their NDIS plan.
+• Specialist disability accommodation, home and living supports and/or behaviour supports.
+• A plan manager. Only the plan manager needs to be recorded as a my provider.
+A plan manager needs to be recorded as a my provider to be paid, but participants don't need to
+record providers for their plan managed supports if they don't want to.
+Self-managing participants do not need to record my providers for their plan.
+Providers with existing active service bookings, who deliver home and living supports will
+automatically be recorded as my providers at the NDIS support category level when the
+participant's plan is approved in the PACE system.
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 15 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 18 of 103
 Claiming for support items that are subject to quotation
 Providers can only claim for a support item that is subject to quotation from a participant’s plan if
 they provided a quotation to the NDIA for the support item and it is a stated item in the participant’s
@@ -547,10 +618,48 @@ Claiming for support items that have a price limit
 Where a support item has a price limit then the provider cannot agree a price for the support with
 the participant that is greater than the price limit. Claims should be made in the units specified for
 the item and at the agreed unit price, which must not be higher than the applicable price limit.
+Where a provider delivers less than a full unit of support, they should claim according to the time
+spent delivering the support. This includes claims for travel time, non-face-to-face supports, NDIA
+requested report writing, or cancellations.
+Claims must be made by either claiming a quantity of units or of hours, not both. Claims will be
+paid by multiplying the unit price by the quantity claimed.
+The amounts in the table are indicative, demonstrating how claims vary with time spent.
+Support
+Duration 
+Unit Quantity (Hour) 
+Hour
+Format
+Total claim amount if unit price is set to
+$193.99
+10
+Minutes 
+0.17 0:10 $32.33
+20
+Minutes 
+0.33 0:20 $64.66
+30
+Minutes 
+0.50 0:30 $97.00
+40
+Minutes 
+0.67 0:40 $129.33
+50
+Minutes 
+0.83 0:50 $161.66
+60
+Minutes 
+1.00 1:00 $193.99
 Example – Claiming for a support subject to price limit
-A provider has agreed to deliver a support to a participant at an hourly rate of $50.
-If the provider provides support for 30 minutes, then they should make a claim for 0.5 hours at the agreed unit price of
-$50. They should not claim for 1 unit at $25.
+A Support Coordination provider has agreed to deliver a support to a participant at an hourly rate of $100.
+If the provider provides support for 30 minutes, then can claim for a quantity of 0.5 units or claim 0:30 hours. This
+should be claimed at a unit price of $100 and will result in a payment of $50. They should not claim for 1 unit at $50.
+Example – Claiming for a support subject to price limit
+A provider has agreed to deliver a support to a participant at an hourly rate of $190.
+If the provider delivered 45 minutes, they can claim for a quantity of 0.75 units or claim 0:45 hours. This should be
+claimed at a unit price of $190 and will result in a payment of $142.50. They should not claim 1 unit at $142.50.
+
+General Claiming Rules
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 19 of 103
 Claiming for support items that do not have a price limit
 Where a support item does not have a price limit then the provider and participant should agree on
 the reasonable price for the support. If necessary, they should also agree on the billing schedule
@@ -577,9 +686,6 @@ determined by the applicable Industry Award or Enterprise Bargaining Agreement.
 For NDIS claiming purposes, the provider must first determine the day of the week on which the
 support was provided on and then the time of the day during which the support was delivered.
 (Note: weekday means Monday, Tuesday, Wednesday, Thursday, or Friday).
-
-General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 16 of 97
 • A Night-time Sleepover Support is any support to a participant delivered on a weekday, a
 Saturday, a Sunday or a Public Holiday that:
 o Commences before midnight on a day and finishes after midnight on that day; and
@@ -595,6 +701,9 @@ Holiday or Night-time Sleepover Support).
 prior to a Sunday and ends before or at midnight of that Sunday (unless it is a Public Holiday
 or Night-time Sleepover Support).
 • A Weekday Support is any other support:
+
+General Claiming Rules
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 20 of 103
 o For Disability Support Workers:
 ▪ A Weekday Daytime Support is any support to a participant that starts at or after
 6:00 am and ends before or at 8:00 pm on a single weekday (unless it is a Public
@@ -622,9 +731,6 @@ crosses a shift boundary and the same worker delivers the entire support. In thi
 of the relevant price limits applies to the entire support and the provider should make the claim
 against the relevant support item. Providers are required to discuss this billing arrangement with
 the participant.
-
-General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 17 of 97
 Night-Time Sleepover supports
 This support provides a participant with assistance with, or supervision of, personal tasks of daily
 life where overnight support is needed, but the caregiver can sleep when not required to provide
@@ -638,6 +744,9 @@ Telehealth can be used to deliver direct supports where appropriate and with the
 participant.
 Providers can only claim Telehealth Services where the following conditions are met:
 • The delivery of the support by telehealth is appropriate; and
+
+General Claiming Rules
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 21 of 103
 • The proposed charges for the activities comply with the NDIS Pricing Arrangements and Price
 Limits and with the Service Agreement with the participant; and
 • The activities are part of delivering a specific disability support item to that participant (rather
@@ -663,9 +772,6 @@ Limits and with the Service Agreement with the participant; and
 • The activities are part of delivering a specific disability support item to that participant or in the
 case of group-based supports, are required to enable the group support to be delivered (rather
 than a general activity such as enrolment, administration or staff rostering); and
-
-General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 18 of 97
 • The provider explains the activities to the participant, including why they represent the best
 use of the participant’s funds (that is, the provider explains the value of these activities to the
 participant); and
@@ -682,6 +788,9 @@ for supports and are not considered billable Non-Face-to-Face supports. However,
 undertaken by a capacity-building provider specifically linked to the needs of a participant and to
 the achievement of the participant’s goals may be billable as a Non-Face-to-Face support with the
 participant’s prior agreement.
+
+General Claiming Rules
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 22 of 103
 Service agreements with each client can ‘pre-authorise’ these activities, but providers should only
 claim a support item from a participant’s plan if they have completed activities that are part of the
 support for that participant. Charging a fee that is not linked to completed activities is not permitted.
@@ -706,9 +815,6 @@ Face-to-Face” option in the myplace portal.
 Provider Travel
 Providers can only claim from a participant’s plan for travel costs in respect of the delivery of a
 support item if all the following conditions are met:
-
-General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 19 of 97
 • The NDIS Pricing Arrangements and Price Limits indicates that providers can claim for
 Provider Travel in respect of that support item; and
 • The proposed charges for the activities comply with the NDIS Pricing Arrangements and Price
@@ -724,6 +830,9 @@ the participant and provider should specify the travel costs that can be claimed
 travelling because of the agreement under which the worker is employed; or the provider is a
 sole trader and is travelling from their usual place of work to or from the participant, or
 between participants.
+
+General Claiming Rules
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 23 of 103
 Provider Travel – Labour Costs (Time)
 Where a provider claims for travel time in respect of a support then the maximum amount of travel
 time that they can claim for the time spent travelling to each participant (for each eligible worker) is
@@ -736,6 +845,11 @@ when the provider must pay their worker for the return travel time. The maximum 
 time that they can claim for the time spent on return travel (for each eligible worker) is 30 minutes
 in MMM1-3 areas and 60 minutes in MMM4-5 areas. (Note the relevant MMM classification is the
 classification of the area where the participant is when the support is delivered.)
+For therapy supports providers, including early childhood therapy, the price limit for provider travel
+time is 50% of the regular price limit for these items. For example, if a speech pathologist travelled
+for 1 hour in an MMM5 area to deliver support to a participant, the maximum claimable for this
+travel time component would be $97.00 (which represents 50% of the direct hourly price limit of
+$193.99). This does not impact the amount that can be claimed for non-labour costs.
 Where a worker is travelling to provide services to more than one participant in a ‘region’, then it is
 reasonable for a provider to apportion all of the travel time (including the return journey where
 applicable) between the participants who received support from the worker. This apportionment
@@ -752,9 +866,6 @@ to-Face supports to a participant (such as road tolls, parking fees and the runn
 vehicle), they may negotiate with the participant for them to make a reasonable contribution
 towards these costs. The NDIA considers that the following would be reasonable contributions:
 • For a vehicle owned by the provider or the worker, up to $0.99 a kilometre; and
-
-General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 20 of 97
 • For other forms of transport or associated costs, such as road tolls, parking, public transport
 fares, up to the full amount.
 Claims can only be made for the non-labour costs associated with provider travel in respect of a
@@ -764,13 +875,16 @@ to the claim for the primary support (the support for which the travel is necess
 time associated with the provider travel. The non-labour costs should be claimed against the
 relevant “Provider Travel – non-labour costs” support item as indicated in the NDIS Pricing
 Arrangements and Price Limits.
+
+General Claiming Rules
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 24 of 103
 Support items
 These support items can be delivered to individual participants subject to the rules set out in the
 NDIS Pricing Arrangements and Price Limits. Where a worker is travelling to provide services to
 more than one participant in a ‘region’ then the provider should apportion the non-labour travel
 costs (including the return journey where applicable) between the participants, with the agreement
 of each participant in advance.
-These support items are not subject to price limits. See page 15 for further information on how to
+These support items are not subject to price limits. See page 19 for further information on how to
 claim for support items that are not subject to a price limit.
 Item Number Item Name and Notes Unit National Remote 
 Very
@@ -805,12 +919,6 @@ Remote
 10_799_0102_5_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
 10_799_0128_5_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
 10_799_0133_5_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
-
-General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 21 of 97
-Item Number Item Name and Notes Unit National Remote 
-Very
-Remote
 11_799_0110_7_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
 11_799_0117_7_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
 12_799_0126_3_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
@@ -822,6 +930,12 @@ Remote
 15_799_0114_1_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
 15_799_0117_1_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
 15_799_0118_1_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
+
+General Claiming Rules
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 25 of 103
+Item Number Item Name and Notes Unit National Remote 
+Very
+Remote
 15_799_0119_1_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
 15_799_0126_1_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
 15_799_0128_1_3 Provider travel - non-labour costs Each $1.00 $1.00 $1.00
@@ -861,9 +975,6 @@ than the 60-minute time-cap that can be claimed against each participant. They a
 spent travelling back to their usual place of business as the provider is required to pay the worker for this time and it
 fits under the time-cap. In total, 130 minutes of travel (65 + 25 + 40) can be claimed, apportioned as 65 minutes for
 each participant.
-
-General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 22 of 97
 Because the worker uses his or her own car to drive to the participant, the provider has agreed to pay the worker
 $0.78 per kilometre travelled. The provider can also seek reimbursement for this cost from the participants’ plans
 under the Service Agreement. However, they are only entitled to claim for 150 kilometres.
@@ -876,41 +987,47 @@ using the drop-down field “Provider Travel”; and
 • $58.50 for 75 kilometres travel to and between participants against support item 01_799_0104_1_1.
 Participant B
 • $50.00 for the one hour of support against support item 01_301_0104_1_1;
+
+General Claiming Rules
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 26 of 103
 • $54.17 for the 65 minutes travel to, between and from participants against support item 01_301_0104_1_1
 using the drop-down field “Provider Travel”; and
 • $58.50 for 75 kilometres travel to and between participants against support item 01_799_0104_1_1.
 Example – Capacity building support -Single Participant – MMM 1-3
-A worker employed by a provider travels for 35 minutes (40 kilometres) to a participant in zone 3 of the Modified
-Monash Model. They provide two hours of support to the participant They then spend 25 minutes (40 kilometres)
-returning to their usual place of business.
+A Speech Pathologist employed by a provider travels for 35 minutes (40 kilometres) to a participant in zone 3 of the
+Modified Monash Model. They provide two hours of Speech Pathology support to the participant. They then spend 25
+minutes (40 kilometres) returning to their usual place of business.
 The provider who employs the worker has agreed to pay the worker for the time they spend travelling.
 The provider and participant have agreed an hourly rate of $190.00. They have also agreed that the provider can
-charge for their travel time and for the non-labour costs associated with that travel (at $0.78 per kilometre).
-The provider is entitled to claim for travel to the participant up to the 30-minute time cap. The 5 minutes of travel to the
-participant above the cap is not claimable. They are also entitled to claim for the time spent travelling back to their
-usual place of business claiming the 25 minutes of return travel. In total, 55 minutes of travel can be claimed.
+charge for their travel time at a rate of $97.00 per hour and for the non-labour costs associated with that travel
+(at $0.78 per kilometre).
+Because this is in a MMM1-3 area, the provider is entitled to claim for travel to the participant up to the 30-minute time
+cap. The 5 minutes of travel to the participant above the cap is not claimable. They are also entitled to claim for the
+time spent travelling back to their usual place of business claiming the 25 minutes of return travel. In total, 55 minutes
+of travel can be claimed.
 Because the worker uses his or her own car to drive to the participant, the provider has agreed to pay the worker
-$0.78 per kilometre travelled. The provider is entitled to claim for the non-labour costs associated with this travel
-under the Service Agreement between the provider and the participant indicates that the provider can seek
-reimbursement for this cost from the participant’s plan. Because the travel time for both the journey to and from the
-participant are claimable in this case, the non-labour costs associated with both periods of travel can also be claimed
-under the Service Agreement.
+$0.78 per kilometre travelled. There is a service agreement between the provider and the participant which states the
+provider is able to claim the non-labour costs associated with this travel. Because the travel time for both the journey
+to and from the participant are claimable in this case, the non-labour costs associated with both periods of travel can
+also be claimed under the service agreement.
 The provider’s claim for these supports is in three parts, which should be shown separately on their invoice to the
 participant and claimed for separately.
-• $380.00 for the two hours of support against support item 15_056_0128_1_3
-• $174.17 for the 55 minutes travel to the participant against support item 15_056_0128_1_3 using the drop-
+• $380.00 for the two hours of support against support item 15_622_0128_1_3
+• $88.91 for the 55 minutes travel to the participant against support item 15_622_0128_1_3 using the drop-
 down field “Provider Travel”; and
-• $62.40 for the 80 kilometres travel to and from the participant against support item 15_799_0128_1_3.
+• $62.40 for the non-labour costs of 80 kilometres travel to and from the participant against support item
+15_799_0128_1_3.
 Provider Travel (in Remote and Very Remote Areas)
 In remote and very remote areas (MMM6 and MMM7), providers delivering core and capacity
 building supports may enter specific arrangements with participants to cover travel costs, up to the
-relevant hourly rate for the support item. Providers should assist participants to minimise the travel
-costs that they need to pay (for example, by co-ordinating appointments with other participants in
-an area, so that travel costs can be shared between participants, or by considering the delivery of
-the support by telehealth where appropriate).
+relevant hourly rate for the support item, or up to 50% of the relevant hourly price limit for the
+support item for therapeutic support providers. Providers should assist participants to minimise the
+travel costs that they need to pay (for example, by co-ordinating appointments with other
+participants in an area, so that travel costs can be shared between participants, or by considering
+the delivery of the support by telehealth where appropriate).
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 23 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 27 of 103
 Short Notice Cancellations
 Where a provider has a Short Notice Cancellation (or no show), they can claim up to 100% of the
 agreed fee associated with the activity from the participant’s plan, subject to the NDIS Pricing
@@ -955,7 +1072,7 @@ would have billed if the participant had attended the group session. All other p
 group should also be billed as though all participants had attended the group.
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 24 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 28 of 103
 Claims for a Short Notice Cancellation should be made using the same support item that would
 have been used if the support had been delivered, using the “Cancellation” option in the myplace
 portal.
@@ -1004,7 +1121,7 @@ the participant should specify that NDIA Requested Reports can be claimed); and
 • The report is requested by the NDIA.
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 25 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 29 of 103
 A report is considered to have been requested by the NDIA if it is a report that is required at the
 commencement of a plan that outlines plan objectives and goals, or at plan review that measures
 functional outcomes against the originally stipulated goals, or that makes recommendations for
@@ -1041,7 +1158,7 @@ item. These support items can be delivered to individual participants and to gro
 subject to the rules set out in the NDIS Pricing Arrangements and Price Limits. Where a provider is
 transporting two or more participants on the same trip, these additional costs should be
 apportioned amongst participants, with the agreement of each participant in advance.
-These support items are not subject to price limits. See page 15 for further information on how to
+These support items are not subject to price limits. See page 19 for further information on how to
 claim for support items that are not subject to a price limit.
 Item Number Item Name and Notes Unit National Remote 
 Very
@@ -1051,11 +1168,11 @@ Remote
 04_592_0104_6_1 Activity Based Transport Each $1.00 $1.00 $1.00
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 26 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 30 of 103
 04_821_0133_6_1 Activity Based Transport Each $1.00 $1.00 $1.00
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 27 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 31 of 103
 Activity Based Transport – Capacity Building Supports
 Providers of the following capacity building support items are also, with the agreement of a
 participant, permitted to claim for Activity Based Transport when delivering those supports.
@@ -1099,7 +1216,7 @@ These support items can be delivered to individual participants or groups of par
 the rules set out in the NDIS Pricing Arrangements and Price Limits. Where a provider is
 transporting two or more participants on the same trip, these additional costs should be
 apportioned amongst participants, with the agreement of each participant in advance.
-These support items are not subject to price limits. See page 15 for further information on how to
+These support items are not subject to price limits. See page 19 for further information on how to
 claim for support items that are not subject to a price limit.
 Item Number Item Name and Notes Unit National Remote 
 Very
@@ -1114,7 +1231,7 @@ Remote
 13_590_0102_4_3 Activity Based Transport Each $1.00 $1.00 $1.00
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 28 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 32 of 103
 Example – Activity Based Transport
 A provider has agreed to deliver a support in the Assistance with Social, Economic and Community Participation
 Support Category to a participant and the participant has requested that the provider transport the participant from
@@ -1178,7 +1295,7 @@ ASGS-RA, and areas on a populated island that is separated from the mainland
 in the ABS geography and is more than 5km offshore.
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 29 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 33 of 103
 Providers and participants can determine the MMM rating of a location using the Health Workforce
 Locator tool on the Department of Health’s website.
 Isolated Towns Modification
@@ -1245,7 +1362,7 @@ Kalgoorlie
 6430 Somerville WA 3 6
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 30 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 34 of 103
 NDIA Enclave Postcode Location Name State MMM Rating 
 NDIS
 MMM Rating
@@ -1290,7 +1407,7 @@ for the time of more than one worker against that participant’s plan if all th
 involved in the direct support of the participant for the time claimed.
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 31 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 35 of 103
 Programs of Support
 A provider of group-based supports in any of the following categories can enter into an agreement
 with a participant for a “program of support”, especially where the program is towards the
@@ -1333,7 +1450,7 @@ Social, Economic and Community Participation Support Category is delivered in th
 • Group and Centre Based Activities (0136).
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 32 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 36 of 103
 If the primary support is being delivered to a group of participants, then the provider can claim up
 to price limit of the relevant Centre Capital Cost support item in respect of each of the participants
 for each hour of the support.
@@ -1348,10 +1465,10 @@ These support items are subject to price limits as set out in the following Tabl
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-04_599_0104_6_1 Centre Capital Cost Hour $2.53 $3.54 $3.80
-04_599_0133_5_1 Centre Capital Cost Hour $2.53 $3.54 $3.80
-04_599_0136_6_1 Centre Capital Cost Hour $2.53 $3.54 $3.80
-10_599_0133_5_3 Centre Capital Cost Hour $2.53 $3.54 $3.80
+04_599_0104_6_1 Centre Capital Cost Hour $2.59 $3.63 $3.89
+04_599_0133_5_1 Centre Capital Cost Hour $2.59 $3.63 $3.89
+04_599_0136_6_1 Centre Capital Cost Hour $2.59 $3.63 $3.89
+10_599_0133_5_3 Centre Capital Cost Hour $2.59 $3.63 $3.89
 Claiming for Establishment Fees for Personal Care/Participation
 Supports
 These support items recognise the otherwise non-claimable costs that providers face in
@@ -1378,17 +1495,17 @@ meet the other requirements set out above. More than one provider is able to cla
 Establishment Fee against a given plan as long as each provider meets the relevant requirements.
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 33 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 37 of 103
 These support items are subject to price limits as set out in the following Table
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-01_049_0104_1_1 Establishment Fee for Personal Care/Participation Each $675.60 $945.84 $1,013.40
-01_049_0107_1_1 Establishment Fee for Personal Care/Participation Each $675.60 $945.84 $1,013.40
-04_049_0104_1_1 Establishment Fee for Personal Care/Participation Each $675.60 $945.84 $1,013.40
-04_049_0125_1_1 Establishment Fee for Personal Care/Participation Each $675.60 $945.84 $1,013.40
-04_049_0136_1_1 Establishment Fee for Personal Care/Participation Each $675.60 $945.84 $1,013.40
-04_049_0133_5_1 Establishment Fee for Personal Care/Participation Each $675.60 $945.84 $1,013.40
+01_049_0104_1_1 Establishment Fee for Personal Care/Participation Each $702.30 $983.22 $1053.45
+01_049_0107_1_1 Establishment Fee for Personal Care/Participation Each $702.30 $983.22 $1053.45
+04_049_0104_1_1 Establishment Fee for Personal Care/Participation Each $702.30 $983.22 $1053.45
+04_049_0125_1_1 Establishment Fee for Personal Care/Participation Each $702.30 $983.22 $1053.45
+04_049_0136_1_1 Establishment Fee for Personal Care/Participation Each $702.30 $983.22 $1053.45
+04_049_0133_5_1 Establishment Fee for Personal Care/Participation Each $702.30 $983.22 $1053.45
 Claiming for Irregular SIL Supports
 Irregular SIL Supports are intermittent or unplanned events that disrupt supports initially planned
 for in the SIL plan budget. Examples of situations where Irregular SIL Supports would be required
@@ -1422,7 +1539,7 @@ include:
 individual support needs so that they can understand their support needs and patterns;
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 34 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 38 of 103
 • Supervision of, or specific training for, therapy assistants by the supervising therapist as part
 of the handover of the support delivery to the participant by the therapist to the therapy
 assistant;
@@ -1463,7 +1580,7 @@ with the participant’s goals, objectives and aspirations as set out in their p
 is not reasonable and necessary. Providers should also not claim for supports from a participant’s
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 35 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 39 of 103
 plan where the support is more appropriately funded or provided through other service systems.
 Further information on when a support is considered reasonable and necessary can be found on
 the NDIS website.
@@ -1504,7 +1621,7 @@ business practice; and
 participant has received the support ready for use.
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 36 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 40 of 103
 A participant is entitled to a refund of any balance of prepayment(s) less the actual unrecoverable
 expense incurred by the business to that point when supply is terminated. The participant remains
 fully entitled to their rights under Australian Consumer Law in all circumstances.
@@ -1548,7 +1665,7 @@ c) each such claim under a) or b) shall not exceed one (1) month’s subscriptio
 whichever is less.
 
 General Claiming Rules
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 37 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 41 of 103
 Co-payments for Capital items, including Assistive Technology
 In general, providers are not permitted to request a co-payment by the participant for a support.
 However, where a participant would like a customisation to a support or assistive technology that is
@@ -1568,7 +1685,7 @@ about the NDIS and GST can be accessed on the Australian Taxation Office website
 should seek independent legal or financial advice if they require assistance with tax law
 compliance. If GST is applicable to a support, the price limit is inclusive of GST.
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 38 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 42 of 103
 Special NDIS Pricing Arrangements
 High Intensity Supports
 A support is considered High Intensity if it is provided to a participant that is one or more of the
@@ -1610,7 +1727,7 @@ supports are expected to assist in areas such as:
 • Dysphagia: for participants who have trouble eating, drinking or swallowing on a daily basis.
 
 Special NDIS Pricing Arrangements
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 39 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 43 of 103
 • Respiratory: for participants requiring help with their breathing and maintenance of their
 respiratory health, including any associated care, comfort, planning or supports
 • Nutrition: for participants requiring help with the way they eat or understanding the food they
@@ -1649,7 +1766,7 @@ The Agency is responding to the COVID-19 pandemic through a number of temporary 
 The details of these measures are provided in the COVID Addendum to the NDIS Pricing
 Arrangements and Price Limits which can be downloaded here.
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 40 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 44 of 103
 Core – Assistance with Daily Life
 This support category relates to assisting with or supervising personal tasks of daily life to enable
 the participant to live as autonomously as possible. These supports are provided individually to
@@ -1674,54 +1791,54 @@ Item Number Item Name and Notes Unit National Remote Very Remote
 01_011_0107_1_1 
 Assistance With Self-Care Activities -
 Standard - Weekday Daytime
-Hour $67.56 $94.58 $101.34
+Hour $70.23 $98.32 $105.35
 01_015_0107_1_1 
 Assistance With Self-Care Activities -
 Standard - Weekday Evening
-Hour $74.44 $104.22 $111.66
+Hour $77.38 $108.33 $116.07
 01_002_0107_1_1 
 Assistance With Self-Care Activities -
 Standard - Weekday Night
-Hour $75.82 $106.15 $113.73
+Hour $78.81 $110.33 $118.22
 01_013_0107_1_1 
 Assistance With Self-Care Activities -
 Standard - Saturday
-Hour $95.07 $133.10 $142.61
+Hour $98.83 $138.36 $148.25
 01_014_0107_1_1 
 Assistance With Self-Care Activities -
 Standard - Sunday
-Hour $122.59 $171.63 $183.89
+Hour $127.43 $178.40 $191.15
 01_012_0107_1_1 
 Assistance With Self-Care Activities -
 Standard - Public Holiday
-Hour $150.10 $210.14 $225.15
+Hour $156.03 $218.44 $234.05
 01_450_0107_1_1 
 Intensive and Complex Behaviour
 Supports - Weekday Daytime
-Hour $73.09 $102.33 $109.64
+Hour $75.98 $106.37 $113.97
 01_451_0107_1_1 
 Intensive and Complex Behaviour
 Supports - Weekday Evening
-Hour $80.53 $112.74 $120.80
+Hour $83.72 $117.21 $125.58
 01_452_0107_1_1 
 Intensive and Complex Behaviour
 Supports - Saturday
-Hour $102.86 $144.00 $154.29
+Hour $106.93 $149.70 $160.40
 01_453_0107_1_1 
 Intensive and Complex Behaviour
 Supports - Sunday
-Hour $132.62 $185.67 $198.93
+Hour $137.87 $193.02 $206.81
 01_454_0107_1_1 
 Intensive and Complex Behaviour
 Supports - Public Holiday
-Hour $162.38 $227.33 $243.57
+Hour $168.81 $236.33 $253.22
 01_455_0107_1_1 
 Intensive and Complex Behaviour
 Supports - Weekday Night
-Hour $82.02 $114.83 $123.03
+Hour $85.27 $119.38 $127.91
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 41 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 45 of 103
 Assistance with Self Care Activities – Night-Time Sleepover Support
 This support item provides a participant with assistance with, or supervision of, personal tasks of
 daily life where overnight support is needed, but the caregiver can sleep when not required to
@@ -1744,7 +1861,7 @@ Remote
 01_010_0107_1_1 
 Assistance with Self-Care Activities - Night-Time
 Sleepover
-Each $286.56 $401.18 $429.84
+Each $297.60 $416.64 $446.40
 Assistance from Live-in Carer
 This support item provides for a person who lives in the house of, or travels with the participant and
 provides assistance with, and/or supervision of, personal tasks of daily life to develop skills of the
@@ -1767,14 +1884,14 @@ As well as direct service provision, this support item can be used to claim for:
 • Short Notice Cancellation – 2 clear business days
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 42 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 46 of 103
 Providers of this support can also claim for the costs of:
 • Provider Travel – Non-Labour Costs using support item 01_799_0107_1_1.
 This support item is subject to price limits as set out in the following Table.
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-01_004_0107_1_1 Assistance with Personal Domestic Activities Hour $57.23 $80.12 $85.85
+01_004_0107_1_1 Assistance with Personal Domestic Activities Hour $59.06 $82.68 $88.59
 On-Call Overnight Monitoring
 This support item provides for overnight on-call assistance (either onsite or off-site) with, or
 supervision of, personal tasks of daily living. It applies to any day of the week and on public
@@ -1812,33 +1929,33 @@ Remote
 01_400_0104_1_1 
 Assistance With Self-Care Activities - High Intensity -
 Weekday Daytime
-Hour $73.09 $102.33 $109.64
+Hour $75.98 $106.37 $113.97
 01_401_0104_1_1 
 Assistance With Self-Care Activities - High Intensity -
 Weekday Evening
-Hour $80.53 $112.74 $120.80
+Hour $83.72 $117.21 $125.58
 01_405_0104_1_1 
 Assistance With Self-Care Activities - High Intensity -
 Weekday Night
-Hour $82.02 $114.83 $123.03
+Hour $85.27 $119.38 $127.91
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 43 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 47 of 103
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
 01_402_0104_1_1 
 Assistance With Self-Care Activities - High Intensity -
 Saturday
-Hour $102.86 $144.00 $154.29
+Hour $106.93 $149.70 $160.40
 01_403_0104_1_1 
 Assistance With Self-Care Activities - High Intensity -
 Sunday
-Hour $132.62 $185.67 $198.93
+Hour $137.87 $193.02 $206.81
 01_404_0104_1_1 
 Assistance With Self-Care Activities - High Intensity -
 Public Holiday
-Hour $162.38 $227.33 $243.57
+Hour $168.81 $236.33 $253.22
 Specialised Home-Based Assistance for a Child
 This support item provides specialist assistance in the home that is required due to additional
 requirements of a child’s disability and may be provided to strengthen the sustainability of informal
@@ -1855,7 +1972,7 @@ This support item is subject to price limits as set out in the following Table.
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-01_016_0104_1_1 Specialised Home Based Assistance For A Child Hour $57.23 $80.12 $85.85
+01_016_0104_1_1 Specialised Home Based Assistance For A Child Hour $59.06 $82.68 $88.59
 Assistance with household tasks
 Assistance with Household Tasks
 These support items enable participants to maintain their home environment. This may involve
@@ -1873,17 +1990,17 @@ These support items are subject to price limits as set out in the following Tabl
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-01_019_0120_1_1 House or Yard Maintenance Hour $55.21 $77.29 $82.82
+01_019_0120_1_1 House or Yard Maintenance Hour $56.98 $79.77 $85.47
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 44 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 48 of 103
 • Performing essential house and/or yard
 activities that the participant is not able to
 undertake.
 01_020_0120_1_1 House Cleaning And Other Household Activities
 • Performing essential house cleaning activities
 that the participant is not able to undertake.
-Hour $56.23 $78.72 $84.35
+Hour $58.03 $81.24 $87.05
 Linen Service
 This support item is for the provision of clean linen to a participant who is unable to do their own
 laundry without assistance. It can be delivered to individual participants subject to the rules set out
@@ -1926,7 +2043,7 @@ be provided within the funded weekly amount for both shared and individual suppo
 support includes all planned supports within a typical week in the shared living environment that is
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 45 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 49 of 103
 agreed to via a typical schedule of supports. There is no adjustment for weekdays, weekends or
 public holidays as the weekly amount claimed includes an annualised uplift for public holidays.
 This support item is subject to a service agreement between the provider and participant (or
@@ -1974,69 +2091,88 @@ Providers of these supports can also claim for the costs of:
 • Provider Travel – Non-Labour Costs using support item 01_799_0115_1_1.
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 46 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 50 of 103
 These support items are subject to price limits as set out in the following Table. Different price
 limits apply depending on the Time of Day and Day of Week on which the support is delivered,
 and whether the supports are High Intensity Supports or Implementing Intensive and Complex
 Behaviour Supports.
-Item Number Item Name and Notes Unit National Remote 
-Very
-Remote
+Item Number Item Name and Notes Unit National Remote Very Remote
 01_801_0115_1_1 
-Assistance in Supported Independent Living - Standard -
-Weekday Daytime
-Hour $67.56 $94.58 $101.34
+Assistance in Supported Independent Living
+- Standard - Weekday Daytime
+Hour $70.23 $98.32 $105.35
 01_802_0115_1_1 
-Assistance in Supported Independent Living - Standard -
-Weekday Evening
-Hour $74.44 $104.22 $111.66
+Assistance in Supported Independent Living
+- Standard - Weekday Evening
+Hour $77.38 $108.33 $116.07
 01_803_0115_1_1 
-Assistance in Supported Independent Living - Standard -
-Weekday Night
-Hour $75.82 $106.15 $113.73
+Assistance in Supported Independent Living
+- Standard - Weekday Night
+Hour $78.81 $110.33 $118.22
 01_804_0115_1_1 
-Assistance in Supported Independent Living - Standard -
-Saturday
-Hour $95.07 $133.10 $142.61
-01_805_0115_1_1 Assistance in Supported Independent Living - Standard - Sunday Hour $122.59 $171.63 $183.89
+Assistance in Supported Independent Living
+- Standard - Saturday
+Hour $98.83 $138.36 $148.25
+01_805_0115_1_1 
+Assistance in Supported Independent Living
+- Standard - Sunday
+Hour $127.43 $178.40 $191.15
 01_806_0115_1_1 
-Assistance in Supported Independent Living - Standard - Public
-Holiday
-Hour $150.10 $210.14 $225.15
-01_450_0115_1_1 Intensive and Complex Behaviour Supports - Weekday Daytime Hour $73.09 $102.33 $109.64
-01_451_0115_1_1 Intensive and Complex Behaviour Supports - Weekday Evening Hour $80.53 $112.74 $120.80
-01_452_0115_1_1 Intensive and Complex Behaviour Supports - Saturday Hour $102.86 $144.00 $154.29
-01_453_0115_1_1 Intensive and Complex Behaviour Supports - Sunday Hour $132.62 $185.67 $198.93
-01_454_0115_1_1 Intensive and Complex Behaviour Supports - Public Holiday Hour $162.38 $227.33 $243.57
-01_455_0115_1_1 Intensive and Complex Behaviour Supports - Weekday Night Hour $82.02 $114.83 $123.03
+Assistance in Supported Independent Living
+- Standard - Public Holiday
+Hour $156.03 $218.44 $234.05
+01_450_0115_1_1 
+Intensive and Complex Behaviour Supports
+- Weekday Daytime
+Hour $75.98 $106.37 $113.97
+01_451_0115_1_1 
+Intensive and Complex Behaviour Supports
+- Weekday Evening
+Hour $83.72 $117.21 $125.58
+01_452_0115_1_1 
+Intensive and Complex Behaviour Supports
+– Saturday
+Hour $106.93 $149.70 $160.40
+01_453_0115_1_1 
+Intensive and Complex Behaviour Supports
+– Sunday
+Hour $137.87 $193.02 $206.81
+01_454_0115_1_1 
+Intensive and Complex Behaviour Supports
+- Public Holiday
+Hour $168.81 $236.33 $253.22
+01_455_0115_1_1 
+Intensive and Complex Behaviour Supports
+- Weekday Night
+Hour $85.27 $119.38 $127.91
 01_811_0115_1_1 
-Assistance in Supported Independent Living - High Intensity -
-Weekday Daytime
-Hour $73.09 $102.33 $109.64
+Assistance in Supported Independent Living
+- High Intensity - Weekday Daytime
+Hour $75.98 $106.37 $113.97
 01_812_0115_1_1 
-Assistance in Supported Independent Living - High Intensity -
-Weekday Evening
-Hour $80.53 $112.74 $120.80
+Assistance in Supported Independent Living
+- High Intensity - Weekday Evening
+Hour $83.72 $117.21 $125.58
 01_813_0115_1_1 
-Assistance in Supported Independent Living - High Intensity -
-Weekday Night
-Hour $82.02 $114.83 $123.03
+Assistance in Supported Independent Living
+- High Intensity - Weekday Night
+Hour $85.27 $119.38 $127.91
 01_814_0115_1_1 
-Assistance in Supported Independent Living - High Intensity -
-Saturday
-Hour $102.86 $144.00 $154.29
+Assistance in Supported Independent Living
+- High Intensity - Saturday
+Hour $106.93 $149.70 $160.40
 01_815_0115_1_1 
-Assistance in Supported Independent Living - High Intensity -
-Sunday
-Hour $132.62 $185.67 $198.93
+Assistance in Supported Independent Living
+- High Intensity - Sunday
+Hour $137.87 $193.02 $206.81
 01_816_0115_1_1 
-Assistance in Supported Independent Living - High Intensity -
-Public Holiday
-Hour $162.38 $227.33 $243.57
+Assistance in Supported Independent Living
+- High Intensity - Public Holiday
+Hour $168.81 $236.33 $253.22
 01_832_0115_1_1 
-Assistance in Supported Independent Living - Night-Time
-Sleepover
-Each $286.56 $401.18 $429.84
+Assistance in Supported Independent Living
+- Night-Time Sleepover
+Each $297.60 $416.64 $446.40
 Claiming for Exiting SIL Accommodation permanently where there is an irretrievable
 breakdown of supports
 This support item can be used when a participant exits an accommodation permanently where
@@ -2049,12 +2185,12 @@ notice periods for any intention to claim for unplanned exit in accordance with 
 specified circumstances; and
 • If a participant provides notice to exit and then exits the SIL arrangement early, then only the
 remaining period of the notice period can be claimed during the planned notice period.
+
+Core – Assistance with Daily Life
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 51 of 103
 The Agency strongly recommends that the agreement is in the form of a Service Agreement,
 however, other written mechanisms may apply. Only one claim for 28 days or 4 weekly claims are
 permissible per provider during a plan period.
-
-Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 47 of 97
 This support item can be delivered to individual participants subject to the rules set out in the NDIS
 Pricing Arrangements and Price Limits. Providers should not use a combination of Weekly and
 Hourly SIL supports. A provider will either use the Weekly SIL support item or the Hourly
@@ -2102,40 +2238,40 @@ ratio of staff to participants in the facility.
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-01_058_0115_1_1 STA And Assistance (Inc. Respite) - 1:1 - Weekday Day $2,098.80 $2,938.32 $3,148.20
-01_059_0115_1_1 STA And Assistance (Inc. Respite) - 1:1 - Saturday Day $2,682.32 $3,755.25 $4,023.48
-01_060_0115_1_1 STA And Assistance (Inc. Respite) - 1:1 - Sunday Day $3,396.56 $4,755.18 $5,094.84
-01_061_0115_1_1 
-STA And Assistance (Inc. Respite) - 1:1 - Public
-Holiday
-Day $4,110.80 $5,755.12 $6,166.20
+01_058_0115_1_1 STA And Assistance (Inc. Respite) - 1:1 - Weekday Day $2,178.57 $3,050.00 $3,267.86
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 48 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 52 of 103
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-01_054_0115_1_1 STA And Assistance (Inc. Respite) - 1:2 - Weekday Day $1,156.24 $1,618.74 $1,734.36
-01_055_0115_1_1 STA And Assistance (Inc. Respite) - 1:2 - Saturday Day $1,448.00 $2,027.20 $2,172.00
-01_056_0115_1_1 STA And Assistance (Inc. Respite) - 1:2 - Sunday Day $1,805.12 $2,527.17 $2,707.68
+01_059_0115_1_1 STA And Assistance (Inc. Respite) - 1:1 - Saturday Day $2,785.13 $3,899.18 $4,177.70
+01_060_0115_1_1 STA And Assistance (Inc. Respite) - 1:1 - Sunday Day $3,527.69 $4,938.77 $5,291.54
+01_061_0115_1_1 
+STA And Assistance (Inc. Respite) - 1:1 - Public
+Holiday
+Day $4,270.25 $5,978.35 $6,405.38
+01_054_0115_1_1 STA And Assistance (Inc. Respite) - 1:2 - Weekday Day $1,198.69 $1,678.17 $1,798.04
+01_055_0115_1_1 STA And Assistance (Inc. Respite) - 1:2 - Saturday Day $1,501.97 $2,102.76 $2,252.96
+01_056_0115_1_1 STA And Assistance (Inc. Respite) - 1:2 - Sunday Day $1,873.25 $2,622.55 $2,809.88
 01_057_0115_1_1 
 STA And Assistance (Inc. Respite) - 1:2 - Public
 Holiday
-Day $2,162.24 $3,027.14 $3,243.36
-01_062_0115_1_1 STA And Assistance (Inc. Respite) - 1:3 - Weekday Day $842.05 $1,178.87 $1,263.08
-01_063_0115_1_1 STA And Assistance (Inc. Respite) - 1:3 - Saturday Day $1,036.56 $1,451.18 $1,554.84
-01_064_0115_1_1 STA And Assistance (Inc. Respite) - 1:3 - Sunday Day $1,274.64 $1,784.50 $1,911.96
+Day $2,244.53 $3,142.34 $3,366.80
+01_062_0115_1_1 STA And Assistance (Inc. Respite) - 1:3 - Weekday Day $872.06 $1,220.88 $1,308.09
+01_063_0115_1_1 STA And Assistance (Inc. Respite) - 1:3 - Saturday Day $1,074.25 $1,503.95 $1,611.38
+01_064_0115_1_1 STA And Assistance (Inc. Respite) - 1:3 - Sunday Day $1,321.77 $1,850.48 $1,982.66
 01_065_0115_1_1 
 STA And Assistance (Inc. Respite) - 1:3 - Public
 Holiday
-Day $1,512.72 $2,117.81 $2,269.08
-01_045_0115_1_1 STA And Assistance (Inc. Respite) - 1:4 - Weekday Day $684.96 $958.94 $1,027.44
-01_051_0115_1_1 STA And Assistance (Inc. Respite) - 1:4 - Saturday Day $830.84 $1,163.18 $1,246.26
-01_052_0115_1_1 STA And Assistance (Inc. Respite) - 1:4 - Sunday Day $1,009.40 $1,413.16 $1,514.10
+Day $1,569.29 $2,197.01 $2,353.94
+01_045_0115_1_1 STA And Assistance (Inc. Respite) - 1:4 - Weekday Day $708.75 $992.25 $1,063.13
+01_051_0115_1_1 STA And Assistance (Inc. Respite) - 1:4 - Saturday Day $860.39 $1,204.55 $1,290.59
+01_052_0115_1_1 STA And Assistance (Inc. Respite) - 1:4 - Sunday Day $1,046.03 $1,464.44 $1,569.05
 01_053_0115_1_1 
 STA And Assistance (Inc. Respite) - 1:4 - Public
 Holiday
-Day $1,187.96 $1,663.14 $1,781.94
+Day $1,231.67 $1,724.34 $1,847.51
 Additional Hours Support Items
 These support items are for additional support provided at the same time as a Short Term
 Accommodation (STA) support, where the participant requires 1:1 assistance with self-care
@@ -2155,35 +2291,35 @@ Remote
 01_200_0115_1_1 
 Assistance With Self-Care Activities in a STA -
 Weekday Daytime
-Hour $67.56 $94.58 $101.34
+Hour $70.23 $98.32 $105.35
 01_201_0115_1_1 
 Assistance With Self-Care Activities in a STA -
 Weekday Evening
-Hour $74.44 $104.22 $111.66
+Hour $77.38 $108.33 $116.07
 01_205_0115_1_1 
 Assistance With Self-Care Activities in a STA -
 Weekday Night
-Hour $75.82 $106.15 $113.73
+Hour $78.81 $110.33 $118.22
 01_202_0115_1_1 
 Assistance With Self-Care Activities in a STA -
 Saturday
-Hour $95.07 $133.10 $142.61
+Hour $98.83 $138.36 $148.25
 01_203_0115_1_1 
 Assistance With Self-Care Activities in a STA -
 Sunday
-Hour $122.59 $171.63 $183.89
+Hour $127.43 $178.40 $191.15
 01_204_0115_1_1 
 Assistance With Self-Care Activities in a STA -
 Public Holiday
-Hour $150.10 $210.14 $225.15
+Hour $156.03 $218.44 $234.05
 Medium Term Accommodation (MTA)
 This support item covers the accommodation costs of Medium Term Accommodation. The support
 component of the care should be claimed separately. This support item recognises that there may
-be cases where a participant will require longer term transitional accommodation before moving
-into a more permanent home or arrangement (for example, after hospital discharge). Typically,
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 49 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 53 of 103
+be cases where a participant will require longer term transitional accommodation before moving
+into a more permanent home or arrangement (for example, after hospital discharge). Typically,
 MTA would be used for periods up to 90 days. Participants who stay in MTA are responsible for
 meeting their own food and everyday living costs from their own income rather than NDIS plan.
 This support item can be delivered to individual participants subject to the rules set out in the NDIS
@@ -2194,29 +2330,10 @@ This support item is subject to a price limit as set out in the following Table.
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-01_082_0115_1_1 Medium Term Accommodation Day $152.03 $212.84 $228.05
+01_082_0115_1_1 Medium Term Accommodation Day $155.68 $217.95 $233.52
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 50 of 97
-Residential Aged Care
-A participant residing in a residential aged care facility has their reasonable and necessary needs
-met through a combination of supports provided by the facility as required by the Aged Care Act
-1997 and supports provided by the NDIS according to their goals and individual circumstances.
-These support items are for the supports provided by the residential aged care facility. They can be
-delivered to individual participants subject to the rules set out in the NDIS Pricing Arrangements
-and Price Limits.
-These support items should only be used if they are stated in a participant’s plan.
-Item Number Item Name and Notes Unit National Remote 
-Very
-Remote
-01_049_0115_1_1 
-Cross billing payments for residential aged care
-subsidies and supplements
-Week N/A N/A N/A
-01_050_0115_1_1 
-Assistance with daily life tasks provided in
-residential aged care facility
-Each N/A N/A N/A
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 54 of 103
 Onsite Shared Supports in SDA
 This support item assists SDA-eligible participants living in an SDA-enrolled dwelling where onsite
 shared support arrangements are in place.
@@ -2233,7 +2350,7 @@ Remote
 01_066_0115_1_1 
 Unplanned onsite shared supports in Specialist
 Disability Accommodation
-Week $1,484.10 $2,077.74 $2,226.15
+Week $1,542.71 $2,159.79 $2,314.07
 Other living arrangements
 These support items provide for other forms of assistance with daily life tasks in a group or shared
 living arrangement. They can be delivered to individual participants subject to the rules set out in
@@ -2258,9 +2375,6 @@ Each N/A N/A N/A
 Assistance In Individual Living Arrangement For
 Person With Complex Needs
 Each N/A N/A N/A
-
-Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 51 of 97
 Individualised Living Options
 These support items introduce new options and alternative ways of living for people with disability.
 Individualised Living Options (ILOs) are packages of support that are built as a result of holistically
@@ -2273,6 +2387,9 @@ This support item will help participants explore the Individualised Living Optio
 design an option suitable for themselves. Providers delivering this support item will:
 • Explore the vision of the participant for their future home and help all involved to understand
 the full range of options as to how a participant can be supported in the community;
+
+Core – Assistance with Daily Life
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 55 of 103
 • Gain an understanding of a participant’s strengths, with a focus on what they can do, and an
 understanding of how informal, formal and community supports will play a role in the
 participant’s life, and build on this to design the individual support package;
@@ -2303,9 +2420,6 @@ Hour $100.14 $140.19 $150.21
 Support Model
 This support item provides an Individualised Living Option to a participant. It can be delivered to
 individual participants subject to the rules set out in NDIS Pricing Arrangements and Price Limits.
-
-Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 52 of 97
 The Individualised Living Option is a package of supports that enables participants to achieve their
 home and living goals. It is made up of a personalised and detailed package of primary and
 supplementary home and living supports that are used flexibly and combine formal and informal
@@ -2321,6 +2435,9 @@ Management
 This support item focusses on strengthening the participant’s ability to undertake tasks associated
 with the management of their supports. Providers of these supports are expected to assist the
 participant to develop their skills for self-management in future plans, where this is possible.
+
+Core – Assistance with Daily Life
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 56 of 103
 This support assists the participant to strengthen their abilities to self-manage their funds and
 supports them to build capacity to undertake all aspects of plan administration and management.
 This includes building organisational skills; engaging providers; enhancing the participant’s ability
@@ -2343,16 +2460,16 @@ Remote
 01_134_0117_8_1 
 Capacity Building and Training in Self-
 Management and Plan Management
-Hour $77.00 $107.80 $115.50
+Hour $80.06 $112.08 $120.09
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 53 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 57 of 103
 Disability Related Health Supports
 Nursing Supports
 These Disability-Related Health Supports provide nursing care to respond to the disability-
 related health needs of a participant where that care is not the usual responsibility of the health
 system. They have been duplicated into the Assistance with Daily Life Support Category so that
-participants can have greater access to these supports if they need them. See page 91 for further
+participants can have greater access to these supports if they need them. See page 96 for further
 information on these support items.
 These support items can be delivered to individual participants or to groups (see Claiming for
 Group-Based Supports) subject to the rules set out in the NDIS Pricing Arrangements and Price
@@ -2394,7 +2511,7 @@ has direct clinical contact and practices within their scope under the legislati
 title ‘nurse practitioner’ under the Health Practitioner Regulation National Law.
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 54 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 58 of 103
 As well as direct service provision, these support items can be used to claim for:
 • Non-Face-to-Face Support Provision
 • Provider Travel
@@ -2411,136 +2528,135 @@ Remote
 01_600_0114_1_1 
 Delivery of Health Supports by an Enrolled Nurse -
 Weekday Daytime
-Hour $96.78 $135.49 $145.17
+Hour $99.88 $139.83 $149.82
 01_601_0114_1_1 
 Delivery of Health Supports by an Enrolled Nurse -
 Weekday Evening
-Hour $106.76 $149.46 $160.14
+Hour $110.18 $154.25 $165.27
 01_605_0114_1_1 
 Delivery of Health Supports by an Enrolled Nurse -
 Weekday Night
-Hour $108.74 $152.24 $163.11
+Hour $112.22 $157.11 $168.33
 01_602_0114_1_1 
 Delivery of Health Supports by an Enrolled Nurse -
 Saturday
-Hour $138.06 $193.28 $207.09
+Hour $142.48 $199.47 $213.72
 01_603_0114_1_1 
 Delivery of Health Supports by an Enrolled Nurse -
 Sunday
-Hour $158.71 $222.19 $238.07
+Hour $163.79 $229.31 $245.69
 01_604_0114_1_1 
 Delivery of Health Supports by an Enrolled Nurse -
 Public Holiday
-Hour $179.34 $251.08 $269.01
+Hour $185.08 $259.11 $277.62
 01_606_0114_1_1 
 Delivery of Health Supports by a Registered Nurse
 - Weekday Daytime
-Hour $119.82 $167.75 $179.73
+Hour $123.65 $173.11 $185.48
 01_607_0114_1_1 
 Delivery of Health Supports by a Registered Nurse
 - Weekday Evening
-Hour $132.18 $185.05 $198.27
+Hour $136.41 $190.97 $204.62
 01_611_0114_1_1 
 Delivery of Health Supports by a Registered Nurse
 - Weekday Night
-Hour $134.64 $188.50 $201.96
+Hour $138.95 $194.53 $208.43
 01_608_0114_1_1 
 Delivery of Health Supports by a Registered Nurse
 - Saturday
-Hour $171.00 $239.40 $256.50
+Hour $176.47 $247.06 $264.71
 01_609_0114_1_1 
 Delivery of Health Supports by a Registered Nurse
 - Sunday
-Hour $196.58 $275.21 $294.87
+Hour $202.87 $284.02 $304.31
 01_610_0114_1_1 
 Delivery of Health Supports by a Registered Nurse
 - Public Holiday
-Hour $222.16 $311.02 $333.24
+Hour $229.27 $320.98 $343.91
 01_612_0114_1_1 
 Delivery of Health Supports by a Clinical Nurse -
 Weekday Daytime
-Hour $138.60 $194.04 $207.90
+Hour $143.04 $200.26 $214.56
 01_613_0114_1_1 
 Delivery of Health Supports by a Clinical Nurse -
 Weekday Evening
-Hour $152.88 $214.03 $229.32
+Hour $157.77 $220.88 $236.66
 01_617_0114_1_1 
 Delivery of Health Supports by a Clinical Nurse -
 Weekday Night
-Hour $155.75 $218.05 $233.63
+Hour $160.73 $225.02 $241.10
 01_614_0114_1_1 
-Delivery of Health Supports by a Clinical Nurse -
+Delivery of Health Supports by a Clinical Nurse –
 Saturday
-Hour $197.79 $276.91 $296.69
+Hour $204.12 $285.77 $306.18
 01_615_0114_1_1 
-Delivery of Health Supports by a Clinical Nurse -
+Delivery of Health Supports by a Clinical Nurse –
 Sunday
-Hour $227.39 $318.35 $341.09
+Hour $234.67 $328.54 $352.01
 01_616_0114_1_1 
 Delivery of Health Supports by a Clinical Nurse -
 Public Holiday
-Hour $256.98 $359.77 $385.47
+Hour $265.20 $371.28 $397.80
 01_618_0114_1_1 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Weekday Daytime
-Hour $163.91 $229.47 $245.87
+Hour $169.16 $236.82 $253.74
 01_619_0114_1_1 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Weekday Evening
-Hour $180.84 $253.18 $271.26
+Hour $186.63 $261.28 $279.95
 01_623_0114_1_1 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Weekday Night
-Hour $184.22 $257.91 $276.33
+Hour $190.12 $266.17 $285.18
 01_620_0114_1_1 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Saturday
-Hour $234.03 $327.64 $351.05
+Hour $241.52 $338.13 $362.28
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 55 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 59 of 103
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
 01_621_0114_1_1 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Sunday
-Hour $269.08 $376.71 $403.62
+Hour $277.69 $388.77 $416.54
 01_622_0114_1_1 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Public Holiday
-Hour $304.13 $425.78 $456.20
+Hour $313.86 $439.40 $470.79
 01_624_0114_1_1 
 Delivery of Health Supports by a Nurse Practitioner
 - Weekday Daytime
-Hour $171.37 $239.92 $257.06
+Hour $176.85 $247.59 $265.28
 01_625_0114_1_1 
 Delivery of Health Supports by a Nurse Practitioner
 - Weekday Evening
-Hour $189.04 $264.66 $283.56
+Hour $195.09 $273.13 $292.64
 01_629_0114_1_1 
 Delivery of Health Supports by a Nurse Practitioner
 - Weekday Night
-Hour $192.59 $269.63 $288.89
+Hour $198.75 $278.25 $298.13
 01_626_0114_1_1 
 Delivery of Health Supports by a Nurse Practitioner
-- Saturday
-Hour $244.68 $342.55 $367.02
+– Saturday
+Hour $252.51 $353.51 $378.77
 01_627_0114_1_1 
 Delivery of Health Supports by a Nurse Practitioner
-- Sunday
-Hour $281.33 $393.86 $422.00
+– Sunday
+Hour $290.33 $406.46 $435.50
 01_628_0114_1_1 
 Delivery of Health Supports by a Nurse Practitioner
 - Public Holiday
-Hour $317.98 $445.17 $476.97
+Hour $328.16 $459.42 $492.24
 Therapy Supports and Early Childhood Supports
 These Disability-Related Health Supports provide care, other than nursing care, to respond to
 the disability-related health needs of a participant where that care is not the usual responsibility of
 the health system. They have been temporarily duplicated into the Assistance with Daily Life
 Support Category so that participants can have greater access to these supports if they need
-them. These are in place for therapeutic disability-related health supports until 30 June 2025. See
-pages 85 and 86 for further information on these support items.
+them. See pages 90 and 92 for further information on these support items.
 These support items can be delivered to individual participants or to groups (see Claiming for
 Group-Based Supports) subject to the rules set out in the NDIS Pricing Arrangements and Price
 Limits. In particular: these support items can only be delivered by the following types of therapists,
@@ -2560,12 +2676,15 @@ approved by Speech Pathology Australia.
 who the provider considers to be an appropriate professional to deliver Disability-Related
 Health Supports in line with the NDIS Quality and Safeguarding Commission’s
 requirements for the Therapeutic Supports Registration Group.
+• Note: In line with the rules for provider travel for therapy providers, the hourly price limit for
+provider travel is 50% of the regular price limit. For example, where a Dietitian travelled 30
+minutes to a participant, the price limit for this travel time would be $47.25, not $94.50.
 As well as direct service provision, these support items can be used to claim for:
-• Non-Face-to-Face Support Provision
-• Provider Travel
 
 Core – Assistance with Daily Life
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 56 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 60 of 103
+• Non-Face-to-Face Support Provision
+• Provider Travel
 • Short Notice Cancellation – 2 clear business days
 • NDIA Requested Reports
 Providers of this support can also claim for the costs of:
@@ -2574,96 +2693,76 @@ Providers of this support can also claim for the costs of:
 These support items are subject to price limits as set out in the following Table. Different price
 limits apply depending on the type of allied health professional who delivers the support.
 These support items relate to registration group 0128: Therapeutic Supports and are to be used by
-participants older than 7.
-Item Number Item Name and Notes Unit 
-NSW
-VIC
-QLD
-ACT
-WA
-SA
-TAS
-NT
-Remote 
-Very
-Remote
+participants older than 9.
+Item Number Item Name and Notes Unit National Remote Very Remote
 01_760_0128_3_3 
 Assessment Recommendation Therapy or
 Training Supports - Dietitian
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $188.99 $264.59 $283.49
 01_661_0128_1_3 
 Assessment Recommendation Therapy or
 Training Supports - Occupational Therapist
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 01_721_0128_1_3 
 Assessment Recommendation Therapy or
 Training Supports - Physiotherapist
-Hour $193.99 $224.62 $314.47 $336.93
+Hour $183.99 $257.59 $275.99
 01_663_0128_1_3 
 Assessment Recommendation Therapy or
 Training Supports - Podiatrist
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $188.99 $264.59 $283.49
 01_701_0128_1_3 
 Assessment Recommendation Therapy or
 Training Supports - Psychologist
 • This includes paid provisional psychologists
 operating under supervision
-Hour $222.99 $244.22 $341.91 $366.33
+Hour $232.99 $326.19 $349.49
 01_665_0128_1_3 
 Assessment Recommendation Therapy or
 Training Supports - Speech Pathologist
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 01_741_0128_1_3 
 Assessment Recommendation Therapy or
 Training Supports - Other Professional
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 These support items relate to registration group 0118: Early Intervention Supports for Early
-Childhood and are to be used by participants younger than 7.
-Item Number Item Name and Notes Unit 
-NSW
-VIC
-QLD
-ACT
-WA
-SA
-TAS
-NT
-Remote 
+Childhood and are to be used by participants younger than 9.
+Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
 01_760_0118_1_3 
-Assessment Recommendation Therapy or
-Training - EC - Dietitian
-Hour $193.99 $193.99 $271.59 $290.99
+Assessment Recommendation Therapy or Training - EC -
+Dietitian
+Hour $188.99 $264.59 $283.49
 01_650_0118_1_3 
-Assessment Recommendation Therapy or
-Training - EC - Occupational Therapist
-Hour $193.99 $193.99 $271.59 $290.99
+Assessment Recommendation Therapy or Training - EC -
+Occupational Therapist
+Hour $193.99 $271.59 $290.99
 01_720_0118_1_3 
-Assessment Recommendation Therapy or
-Training - EC - Physiotherapist
-Hour $193.99 $224.62 $314.47 $336.93
+Assessment Recommendation Therapy or Training - EC -
+Physiotherapist
+Hour $183.99 $257.59 $275.99
 01_663_0118_1_3 
-Assessment Recommendation Therapy or
-Training - EC - Podiatrist
-Hour $193.99 $193.99 $271.59 $290.99
+Assessment Recommendation Therapy or Training - EC -
+Podiatrist
+Hour $188.99 $264.59 $283.49
 01_700_0118_1_3 
-Assessment Recommendation Therapy or
-Training - EC - Psychologist
-• This includes paid provisional psychologists
-operating under supervision
-Hour $222.99 $244.22 $341.91 $366.33
+Assessment Recommendation Therapy or Training - EC -
+Psychologist
+• This includes paid provisional psychologists operating under
+supervision
+Hour $232.99 $326.19 $349.49
 01_653_0118_1_3 
-Assessment Recommendation Therapy or
-Training - EC - Speech Pathologist
-Hour $193.99 $193.99 $271.59 $290.99
+Assessment Recommendation Therapy or Training - EC -
+Speech Pathologist
+Hour $193.99 $271.59 $290.99
 01_740_0118_1_3 
-Assessment Recommendation Therapy or
-Training - EC - Other Professional
-Hour $193.99 $193.99 $271.59 $290.99
+Assessment Recommendation Therapy or Training - EC - Other
+Professional
+Hour $193.99 $271.59 $290.99
 
 Core – Transport
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 57 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 61 of 103
 Core – Transport
 Transport enables participants to access disability supports outside their home, and to achieve the
 goals in their plan. If participants have questions about their transport support, providers may direct
@@ -2674,7 +2773,7 @@ include an activity that is not itself a support – or to a support that is del
 This enables the participant to travel to and from appointments or their place of work.
 This support item can be delivered to individual participants or to groups (see Claiming for Group-
 Based Supports) subject to the rules set out in the NDIS Pricing Arrangements and Price Limits.
-This support item is not subject to price limits. See page 15 for further information on how to claim
+This support item is not subject to price limits. See page 19 for further information on how to claim
 for support items that are not subject to a price limit.
 Item Number Item Name and Notes Unit National Remote 
 Very
@@ -2694,7 +2793,7 @@ Specialised Transport To School/Educational
 Facility/Employment/Community
 Day N/A N/A N/A
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 58 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 62 of 103
 Core – Consumables
 Consumables are a support category available to assist participants with purchasing everyday use
 items. Supports such as Continence and Home Enteral Nutrition (HEN) products are included in
@@ -2702,7 +2801,7 @@ this category.
 Information on the pricing arrangements for Consumables can be found in the Assistive
 Technology and Consumables Code Guide on the NDIS website.
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 59 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 63 of 103
 Core – Assistance with Social, Economic and Community
 Participation
 This support category relates to assisting with or supervising a participant to engage in community,
@@ -2725,40 +2824,53 @@ using support item 04_590_0125_6_1.
 These support items are subject to price limits as set out in the following Table. Different price
 limits apply depending on the Time of Day and Day of Week when the support is delivered or
 Implementing Intensive and Complex Behaviour Supports.
-Item Number Item Name and Notes Unit National Remote 
-Very
-Remote
+Item Number Item Name and Notes Unit National Remote Very Remote
 04_104_0125_6_1 
-Access Community Social and Rec Activ - Standard -
-Weekday Daytime
-Hour $67.56 $94.58 $101.34
+Access Community Social and Rec Activ -
+Standard - Weekday Daytime
+Hour $70.23 $98.32 $105.35
 04_103_0125_6_1 
-Access Community Social and Rec Activ - Standard -
-Weekday Evening
-Hour $74.44 $104.22 $111.66
-04_105_0125_6_1 Access Community Social and Rec Activ - Standard - Saturday Hour $95.07 $133.10 $142.61
-04_106_0125_6_1 Access Community Social and Rec Activ - Standard - Sunday Hour $122.59 $171.63 $183.89
+Access Community Social and Rec Activ -
+Standard - Weekday Evening
+Hour $77.38 $108.33 $116.07
+04_105_0125_6_1 
+Access Community Social and Rec Activ -
+Standard - Saturday
+Hour $98.83 $138.36 $148.25
+04_106_0125_6_1 
+Access Community Social and Rec Activ -
+Standard - Sunday
+Hour $127.43 $178.40 $191.15
 04_102_0125_6_1 
-Access Community Social and Rec Activ - Standard - Public
-Holiday
-Hour $150.10 $210.14 $225.15
+Access Community Social and Rec Activ -
+Standard - Public Holiday
+Hour $156.03 $218.44 $234.05
 04_450_0125_1_1 
-Intensive and Complex Behaviour Supports - Weekday
-Daytime
-Hour $73.09 $102.33 $109.64
+Intensive and Complex Behaviour Supports
+- Weekday Daytime
+Hour $75.98 $106.37 $113.97
 04_451_0125_1_1 
-Intensive and Complex Behaviour Supports - Weekday
-Evening
-Hour $80.53 $112.74 $120.80
-04_452_0125_1_1 Intensive and Complex Behaviour Supports - Saturday Hour $102.86 $144.00 $154.29
-04_453_0125_1_1 Intensive and Complex Behaviour Supports - Sunday Hour $132.62 $185.67 $198.93
-04_454_0125_1_1 Intensive and Complex Behaviour Supports - Public Holiday Hour $162.38 $227.33 $243.57
+Intensive and Complex Behaviour Supports
+- Weekday Evening
+Hour $83.72 $117.21 $125.58
+04_452_0125_1_1 
+Intensive and Complex Behaviour Supports
+- Saturday
+Hour $106.93 $149.70 $160.40
+04_453_0125_1_1 
+Intensive and Complex Behaviour Supports
+- Sunday
+Hour $137.87 $193.02 $206.81
+04_454_0125_1_1 
+Intensive and Complex Behaviour Supports
+- Public Holiday
+Hour $168.81 $236.33 $253.22
+
+Core – Assistance with Social, Economic and Community Participation
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 64 of 103
 Participation in Community, Social and Civic Activities – High Intensity Supports
 These support items enable a participant who requires High Intensity Supports, to engage in
 community, social and recreational activities in circumstances where a more skilled or experienced
-
-Core – Assistance with Social, Economic and Community Participation
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 60 of 97
 support worker is required. They can be delivered to individual participants or to groups (see
 Claiming for Group-Based Supports) subject to the rules set out in the NDIS Pricing Arrangements
 and Price Limits.
@@ -2779,23 +2891,23 @@ Remote
 04_400_0104_1_1 
 Access Community Social and Rec Activ - High
 Intensity - Weekday Daytime
-Hour $73.09 $102.33 $109.64
+Hour $75.98 $106.37 $113.97
 04_401_0104_1_1 
 Access Community Social and Rec Activ - High
 Intensity - Weekday Evening
-Hour $80.53 $112.74 $120.80
+Hour $83.72 $117.21 $125.58
 04_402_0104_1_1 
 Access Community Social and Rec Activ - High
 Intensity - Saturday
-Hour $102.86 $144.00 $154.29
+Hour $106.93 $149.70 $160.40
 04_403_0104_1_1 
 Access Community Social and Rec Activ - High
 Intensity - Sunday
-Hour $132.62 $185.67 $198.93
+Hour $137.87 $193.02 $206.81
 04_404_0104_1_1 
 Access Community Social and Rec Activ - High
 Intensity - Public Holiday
-Hour $162.38 $227.33 $243.57
+Hour $168.81 $236.33 $253.22
 Community, Social and Recreational Activities
 This support item is designed to enable providers to claim reimbursement for the costs of enabling
 a participant to independently engage in community, social and recreational activities when costs
@@ -2805,7 +2917,7 @@ school hours’ care, course or membership fees.
 This support item can be delivered to individual participants subject to the rules set out in the NDIS
 Pricing Arrangements and Price Limits.
 This support item is not subject to price limits. It should only be used to recover the costs of the
-participant’s attendance at the community social and participation activities. See page 15 for
+participant’s attendance at the community social and participation activities. See page 19 for
 further information on how to claim for support items that are not subject to a price limit.
 Item Number Item Name and Notes Unit National Remote 
 Very
@@ -2813,7 +2925,7 @@ Remote
 04_210_0125_6_1 Community Social and Recreational Activities Each N/A N/A N/A
 
 Core – Assistance with Social, Economic and Community Participation
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 61 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 65 of 103
 Group and Centre Based Activities
 Group and Centre Based Activities – Standard
 These support items assist participants to access community, social and recreational activities
@@ -2837,41 +2949,48 @@ a centre rather than in the community.
 These support items are subject to price limits as set out in the following Table. Different price
 limits apply depending on the Time of Day and Day of Week when the support is delivered or
 Implementing Intensive and Complex Behaviour Supports.
-Item Number Item Name and Notes Unit National Remote 
-Very
-Remote
-04_102_0136_6_1 Group Activities - Standard - Weekday Daytime Hour $67.56 $94.58 $101.34
-04_103_0136_6_1 Group Activities - Standard - Weekday Evening Hour $74.44 $104.22 $111.66
-04_104_0136_6_1 Group Activities - Standard - Saturday Hour $95.07 $133.10 $142.61
-04_105_0136_6_1 Group Activities - Standard - Sunday Hour $122.59 $171.63 $183.89
-04_106_0136_6_1 Group Activities - Standard - Public Holiday Hour $150.10 $210.14 $225.15
+Item Number Item Name and Notes Unit National Remote Very Remote
+04_102_0136_6_1 
+Group Activities - Standard - Weekday
+Daytime
+Hour $70.23 $98.32 $105.35
+04_103_0136_6_1 
+Group Activities - Standard - Weekday
+Evening
+Hour $77.38 $108.33 $116.07
+04_104_0136_6_1 Group Activities - Standard - Saturday Hour $98.83 $138.36 $148.25
+04_105_0136_6_1 Group Activities - Standard - Sunday Hour $127.43 $178.40 $191.15
+04_106_0136_6_1 
+Group Activities - Standard - Public
+Holiday
+Hour $156.03 $218.44 $234.05
 04_450_0136_1_1 
-Intensive and Complex Behaviour Supports -
-Weekday Daytime
-Hour $73.09 $102.33 $109.64
+Intensive and Complex Behaviour
+Supports - Weekday Daytime
+Hour $75.98 $106.37 $113.97
 04_451_0136_1_1 
-Intensive and Complex Behaviour Supports -
-Weekday Evening
-Hour $80.53 $112.74 $120.80
+Intensive and Complex Behaviour
+Supports - Weekday Evening
+Hour $83.72 $117.21 $125.58
 04_452_0136_1_1 
-Intensive and Complex Behaviour Supports -
-Saturday
-Hour $102.86 $144.00 $154.29
+Intensive and Complex Behaviour
+Supports - Saturday
+Hour $106.93 $149.70 $160.40
 04_453_0136_1_1 
-Intensive and Complex Behaviour Supports -
-Sunday
-Hour $132.62 $185.67 $198.93
+Intensive and Complex Behaviour
+Supports - Sunday
+Hour $137.87 $193.02 $206.81
 04_454_0136_1_1 
-Intensive and Complex Behaviour Supports -
-Public Holiday
-Hour $162.38 $227.33 $243.57
+Intensive and Complex Behaviour
+Supports - Public Holiday
+Hour $168.81 $236.33 $253.22
+
+Core – Assistance with Social, Economic and Community Participation
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 66 of 103
 Group and Centre Based Activities – High Intensity
 These support items enable a participant who requires High Intensity Supports, to engage in
 community, social and recreational activities in a group setting, either in the community or in a
 centre, in circumstances where a more skilled or experienced support worker is required.
-
-Core – Assistance with Social, Economic and Community Participation
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 62 of 97
 These support items can be delivered to individual participants or to groups who require High
 Intensity Supports subject to the rules set out in the NDIS Pricing Arrangements and Price Limits.
 If a support item is delivered to a group then the price limit for each participant is the price limit set
@@ -2896,17 +3015,17 @@ Remote
 04_600_0104_6_1 
 Group Activities - High Intensity - Weekday
 Daytime
-Hour $73.09 $102.33 $109.64
+Hour $75.98 $106.37 $113.97
 04_601_0104_6_1 
 Group Activities - High Intensity - Weekday
 Evening
-Hour $80.53 $112.74 $120.80
-04_602_0104_6_1 Group Activities - High Intensity - Saturday Hour $102.86 $144.00 $154.29
-04_603_0104_6_1 Group Activities - High Intensity - Sunday Hour $132.62 $185.67 $198.93
-04_604_0104_6_1 Group Activities - High Intensity - Public Holiday Hour $162.38 $227.33 $243.57
+Hour $83.72 $117.21 $125.58
+04_602_0104_6_1 Group Activities - High Intensity - Saturday Hour $106.93 $149.70 $160.40
+04_603_0104_6_1 Group Activities - High Intensity - Sunday Hour $137.87 $193.02 $206.81
+04_604_0104_6_1 Group Activities - High Intensity - Public Holiday Hour $168.81 $236.33 $253.22
 
 Core – Assistance with Social, Economic and Community Participation
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 63 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 67 of 103
 Supports in Employment
 While some participants, with supports offered through DES or employer reasonable adjustment,
 will successfully maintain work, others will need higher intensity support delivered in the workplace
@@ -2944,22 +3063,27 @@ using support item 04_821_0133_6_1
 a centre rather than in the community.
 These support items are subject to price limits as set out in the following Table. Different price
 limits apply depending on the Time of Day and Day of Week when the support is delivered.
-Item Number Item Name and Notes Unit National Remote 
-Very
-Remote
-04_801_0133_5_1 Supports in Employment - Weekday Daytime Hour $67.56 $94.58 $101.34
+Item Number Item Name and Notes Unit National Remote Very Remote
+04_801_0133_5_1 
+Supports in Employment - Weekday
+Daytime
+Hour $70.23 $98.32 $105.35
 
 Core – Assistance with Social, Economic and Community Participation
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 64 of 97
-Item Number Item Name and Notes Unit National Remote 
-Very
-Remote
-04_802_0133_5_1 Supports in Employment - Weekday Evening Hour $74.44 $104.22 $111.66
-04_803_0133_5_1 Supports in Employment - Saturday Hour $95.07 $133.10 $142.61
-04_804_0133_5_1 Supports in Employment - Sunday Hour $122.59 $171.63 $183.89
-04_805_0133_5_1 Supports in Employment - Public Holiday Hour $150.10 $210.14 $225.15
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 68 of 103
+Item Number Item Name and Notes Unit National Remote Very Remote
+04_802_0133_5_1 
+Supports in Employment - Weekday
+Evening
+Hour $77.38 $108.33 $116.07
+04_803_0133_5_1 Supports in Employment - Saturday Hour $98.83 $138.36 $148.25
+04_804_0133_5_1 Supports in Employment - Sunday Hour $127.43 $178.40 $191.15
+04_805_0133_5_1 
+Supports in Employment - Public
+Holiday
+Hour $156.03 $218.44 $234.05
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 65 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 69 of 103
 Capital – Assistive Technology
 This support category includes all aids or equipment supports that assist participants to live
 independently or assist a carer to support the participant. It also includes related delivery, set-up
@@ -2968,7 +3092,7 @@ and training (not bundled with the sale of an item) is funded through a capacity
 Information on the pricing arrangements for Assistive Technology can be found in the Assistive
 Technology, Home Modifications and Consumables Code Guide on the NDIS website.
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 66 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 70 of 103
 Capital – Home Modifications and Specialist Disability
 Accommodation
 This support category includes Home Modifications and Specialist Disability Accommodation
@@ -2986,7 +3110,7 @@ functional impairment and/or very high support needs.
 Information on the pricing arrangements for Specialist Disability Accommodation can be found in
 the NDIS Pricing Arrangements for Specialist Disability Accommodation on the NDIS website.
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 67 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 71 of 103
 Capacity Building – Support Coordination
 The supports in this support category strengthen a participant’s ability to design and then build
 their supports with an emphasis on linking to broader systems of support.
@@ -3016,20 +3140,18 @@ Providers of this support can also claim for the costs of:
 • Provider Travel – Non-Labour Costs using the support item 07_799_0106_6_3 or
 01_799_0106_1_1.
 This support item is subject to price limits as set out in the following Table.
-Item Number Item Name and Notes Unit National Remote 
-Very
-Remote
-07_001_0106_8_3 Support Coordination Level 1: Support Connection Hour $77.00 $107.80 $115.50
-Where a participant younger than 7 is receiving assistance from Partners in the Community (PITC)
+Item Number Item Name and Notes Unit National Remote Very Remote
+07_001_0106_8_3 Support Coordination Level 1: Support Connection Hour $80.06 $112.08 $120.09
+Where a participant younger than 9 is receiving assistance from Partners in the Community (PITC)
 an early childhood partner provides support.
-Where a participant 7 or older is receiving assistance from Partners in the Community (PITC) the
+Where a participant 9 or older is receiving assistance from Partners in the Community (PITC) the
 local area coordinator (LAC) provides support.
-
-Capacity Building – Support Coordination
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 68 of 97
 Level 2: Coordination of Supports
 This support item strengthens a participant’s ability to design and then build their supports with an
 emphasis on linking the broader systems of support across a complex service delivery
+
+Capacity Building – Support Coordination
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 72 of 103
 environment. Coordination of Supports is to focus on supporting participants to direct their lives,
 not just their services, and is focussed on assisting participants to build and maintain a resilient
 network of formal and informal supports. This involves working together with the participant to
@@ -3066,7 +3188,7 @@ Supports
 Hour $100.14 $140.19 $150.21
 
 Capacity Building – Support Coordination
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 69 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 73 of 103
 Level 3: Specialist Support Coordination
 This support is delivered utilising an expert or specialist approach, necessitated by specific high
 complex needs or high level risks in a participant’s situation. Specialist Support Coordination is
@@ -3109,7 +3231,7 @@ As well as direct service provision, these support items can be used to claim fo
 Providers of this support can also claim for the costs of:
 
 Capacity Building – Support Coordination
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 70 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 74 of 103
 • Provider Travel – Non-Labour Costs using the support item 07_799_0132_8_3 or
 01_799_0132_1_1.
 This support item is subject to price limits as set out in the following Table.
@@ -3150,17 +3272,17 @@ Remote
 07_101_0106_6_3 
 Psychosocial Recovery Coaching - Weekday
 Daytime
-Hour $101.42 $141.99 $152.13
+Hour $105.43 $147.60 $158.15
 07_102_0106_6_3 
 Psychosocial Recovery Coaching - Weekday
 Evening
-Hour $111.74 $156.44 $167.61
-07_103_0106_6_3 Psychosocial Recovery Coaching - Weekday Night Hour $113.81 $159.33 $170.72
-07_104_0106_6_3 Psychosocial Recovery Coaching - Saturday Hour $142.71 $199.79 $214.07
-07_105_0106_6_3 Psychosocial Recovery Coaching - Sunday Hour $184.01 $257.61 $276.02
-07_106_0106_6_3 Psychosocial Recovery Coaching - Public Holiday Hour $225.31 $315.43 $337.97
+Hour $116.16 $162.62 $174.24
+07_103_0106_6_3 Psychosocial Recovery Coaching - Weekday Night Hour $118.31 $165.63 $177.47
+07_104_0106_6_3 Psychosocial Recovery Coaching - Saturday Hour $148.36 $207.70 $222.54
+07_105_0106_6_3 Psychosocial Recovery Coaching - Sunday Hour $191.29 $267.81 $286.94
+07_106_0106_6_3 Psychosocial Recovery Coaching - Public Holiday Hour $234.23 $327.92 $351.35
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 71 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 75 of 103
 Capacity Building – Improved Living Arrangements
 The supports in this support category help participants to increase their ability to obtain and retain
 appropriate accommodation.
@@ -3179,15 +3301,13 @@ Providers of this support can also claim for the costs of:
 • Activity Based Transport – Capacity Building Supports using support item
 08_590_0106_2_3.
 This support item is subject to price limits as set out in the following Table
-Item Number Item Name and Notes Unit National Remote 
-Very
-Remote
+Item Number Item Name and Notes Unit National Remote Very Remote
 08_005_0106_2_3 
 Assistance With Accommodation And Tenancy
 Obligations
-Hour $77.00 $107.80 $115.50
+Hour $80.06 $112.08 $120.09
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 72 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 76 of 103
 Capacity Building – Increased Social and Community
 Participation
 The supports in this support category allow participants to take part in skills-based learning to
@@ -3215,10 +3335,10 @@ Remote
 09_006_0106_6_3 
 Life Transition Planning Incl. Mentoring Peer-
 Support And Indiv Skill Develop
-Hour $77.00 $107.80 $115.50
+Hour $80.06 $112.08 $120.09
 
 Capacity Building – Increased Social and Community Participation
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 73 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 77 of 103
 Development of Daily Living and Life Skills
 This support item provides individual life skills development and training including public transport
 training and support, developing skills for community, social and recreational participation. It also
@@ -3242,7 +3362,7 @@ This support item is subject to price limits as set out in the following Table.
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-09_009_0117_6_3 Skills Development and Training Hour $77.00 $107.80 $115.50
+09_009_0117_6_3 Skills Development and Training Hour $80.06 $112.08 $120.09
 Innovative Community Participation
 This support item is designed to enable providers to offer new and innovative services to
 participant and is for mainstream providers who want to enable participants to access mainstream
@@ -3251,7 +3371,7 @@ met. All supports claimed under this support item need to be reasonable and nece
 participant’s plan goals.
 This support item can be delivered to individual participants subject to the rules set out in the NDIS
 Pricing Arrangements and Price Limits.
-This support item is not subject to price limits. See page 15 for further information on how to claim
+This support item is not subject to price limits. See page 19 for further information on how to claim
 for support items that are not subject to a price limit.
 Item Number Item Name and Notes Unit National Remote 
 Very
@@ -3259,7 +3379,7 @@ Remote
 09_008_0116_6_3 Innovative Community Participation Each N/A N/A N/A
 
 Capacity Building – Increased Social and Community Participation
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 74 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 78 of 103
 Community Participation Activities
 This support item is designed to enable providers to claim reimbursement for the costs of tuition
 fees, art classes, sports coaching and similar activities that build a participant’s skills and
@@ -3278,14 +3398,14 @@ disability.
 This support item can be delivered to individual participants subject to the rules set out in the NDIS
 Pricing Arrangements and Price Limits.
 This support item is not subject to price limits. It should only be used to recover the costs of the
-participant’s attendance at the community participation activities. See page 15 for further
+participant’s attendance at the community participation activities. See page 19 for further
 information on how to claim for support items that are not subject to a price limit.
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
 09_011_0125_6_3 Community Participation Activities Each N/A N/A N/A
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 75 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 79 of 103
 Capacity Building – Finding and Keeping a Job
 The supports in this support category help participants to find and keep employment.
 Employment Related Assessment, Counselling and Advice
@@ -3309,32 +3429,62 @@ one of the following allied health professionals:
 Regulation Agency (AHPRA) Registration as an Occupational Therapist.
 • Psychologist – A person who has a current AHPRA Registration as a Psychologist. This
 includes paid provisionally registered Psychologists operating under supervision.
-• Vocational Rehabilitation Counsellor or Developmental Educator with the relevant
-qualifications recognised by their professional association.
+• Physiotherapist – A person who has a current AHPRA Registration as a Physiotherapist.
+• Vocational Rehabilitation Counsellor with the relevant qualifications recognised by their
+professional association.
+• Speech Pathologist - A person who is a Certified Practising Speech Pathologist as
+approved by Speech Pathology Australia.
+• Developmental Educator - A person has a bachelor’s degree or higher and has current full
+membership with Developmental Educators Australia Inc.
 • Other Professionals – A person who is not one of the types of professionals listed above
 but who the provider considers to be an appropriate professional to deliver Employment
 related assessment, counselling and advice in line with the NDIS Quality and
 Safeguarding Commission’s requirements for the Therapeutic Supports Registration Group.
-For example, a physiotherapist or a speech pathologist may be an appropriate professional
-to provide employment related assessment and advice for participants whose disability
-affects their physical movement and function or communication.
+• Note: In line with the rules for provider travel for therapy providers, the hourly price limit for
+provider travel is 50% of the regular price limit. For example, where a physiotherapist
+travelled 30 minutes to a participant, the price limit for this travel time would be $46.00, not
+$92.00.
 As well as direct service provision, these support items can be used to claim for:
 • Non-Face-to-Face Support Provision
 • Provider Travel
+
+Capacity Building – Finding and Keeping a Job
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 80 of 103
 • Short Notice Cancellation – 2 clear business days
 • NDIA Requested Reports
 Providers of this support can also claim for the costs of:
 • Provider Travel – Non-Labour Costs using the support item 10_799_0128_5_3.
 This support item is subject to price limits as set out in the following Table.
-
-Capacity Building – Finding and Keeping a Job
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 76 of 97
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
 10_011_0128_5_3 
 Employment Related Assessment, Counselling
-and Advice
+and Advice – Other Professional
+Hour $193.99 $271.59 $290.99
+10_054_0128_5_3 
+Employment Related Assessment, Counselling
+and Advice -Psychologist
+Hour $232.99 $326.19 $349.49
+10_055_0128_5_3 
+Employment Related Assessment, Counselling
+and Advice -Physiotherapist
+Hour $183.99 $257.59 $275.99
+10_613_0128_5_3 
+Employment Related Assessment, Counselling
+and Advice - Developmental Educator
+Hour $193.99 $271.59 $290.99
+10_617_0128_5_3 
+Employment Related Assessment, Counselling
+and Advice - Occupational Therapist
+Hour $193.99 $271.59 $290.99
+10_622_0128_5_3 
+Employment Related Assessment, Counselling
+and Advice – Speech Pathologist
+Hour $193.99 $271.59 $290.99
+10_620_0128_5_3 
+Employment Related Assessment, Counselling
+and Advice - Rehabilitation Counsellor
 Hour $193.99 $271.59 $290.99
 Employment Assistance including youth aged 15 to 25.
 This support item enables a participant to successfully obtain or retain employment in the open or
@@ -3359,33 +3509,38 @@ necessary.
 Note: this support item cannot be used to fund a Certified education course (for example,
 Certificate I in Work Education), even if run within the employment provider’s organisation,
 as this is funded through the Vocational Education system.
+
+Capacity Building – Finding and Keeping a Job
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 81 of 103
 This support item can be delivered to individual participants or groups subject to the rules set out in
 the NDIS Pricing Arrangements and Price Limits. If a support is delivered to a group of participants
 then the price limit for each participant is the hourly rate divided by the number of people in the
 group (ratio of support). Providers should make a claim for each participant using the relevant
 support item. Each claim should be for the total time of the support subject to the price limit below
-and ratio of support delivered. As well as direct service provision, these support items can be used
-to claim for:
+and ratio of support delivered. As well as direct service provision, this support items can be used to
+claim for:
 • Non-Face-to-Face Support Provision
 • Provider Travel
 • Short Notice Cancellation – 7 days
 • NDIA Requested Reports
 Providers of this support can also claim for the costs of:
 • Provider Travel – Non-Labour Costs using the support item 10_799_0102_5_3
-
-Capacity Building – Finding and Keeping a Job
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 77 of 97
 • Activity Based Transport – Capacity Building Supports using the support item
 10_590_0102_5_3.
 This support item is subject to price limits as set out in the following Table.
 Item Number Item Name and Notes Unit National Remote Very Remote
-10_016_0102_5_3 Employment Assistance Hour $77.00 $107.80 $115.50
+10_016_0102_5_3 Employment Assistance Hour $80.06 $112.08 $120.09
 Other Support Items to assist successful development and placement in employment
 The assistance of other support may at times enable a participant to successfully engage in
 employment preparation and placement. Where this is the case, the support items listed below can
 be used to claim for the supports delivered that contribute to the success of employment
 preparation. The funding for these is to be obtained from the budget available for Employment
 Assistance.
+As well as direct service provision, these support items can be used to claim for:
+• Non-Face-to-Face Support Provision
+• Provider Travel
+• Short Notice Cancellation – 7 days
+• NDIA Requested Reports
 Support Coordinator
 A Support Coordinator who has an existing relationship with a participant can contribute to
 employment success by ensuring the voice of the participant is heard in choosing employment
@@ -3402,6 +3557,9 @@ Hour $100.14 $140.19 $150.21
 Psychosocial Recovery Coach
 Many participants with psychosocial disability will have a Recovery Coach. Preparation for
 employment and starting in a new workplace can be stressful. The Recovery Coach will be able to
+
+Capacity Building – Finding and Keeping a Job
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 82 of 103
 advise the employment provider and a prospective employer on how best to assist the participant
 to manage new or different stressors. The Recovery Coach can also ensure that other support and
 clinical services are responsive to the changes in the participant’s life as they commence
@@ -3412,7 +3570,7 @@ Remote
 10_101_0106_6_3 
 Psychosocial Recovery Coaching – Weekday
 Daytime
-Hour $101.42 $141.99 $152.13
+Hour $105.43 $147.60 $158.15
 Support on the Job
 Some participants will require support on the job after commencing employment. Introducing the
 support worker who will continue support in the workplace will increase the likelihood of the
@@ -3420,10 +3578,10 @@ participant maintaining their employment. These items are available as an interi
 new plan is developed to include the necessary ongoing core supports,
 This type of support can be claimed using the support items below.
 Item Number Item Name and Notes Unit National Remote Very Remote
-10_806_0133_5_1 Supports in Employment - Weekday Daytime Hour $67.56 $94.58 $101.34
+10_806_0133_5_1 Supports in Employment - Weekday Daytime Hour $70.23 $98.32 $105.35
 
 Capacity Building – Finding and Keeping a Job
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 78 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 83 of 103
 Transitional Arrangements for “School leaver Employment Supports” from 1 July 2024
 Participants with difficulties in learning, social interaction and self-management were the focus of
 employment preparation delivered as “school leaver employment supports”. These participants will
@@ -3459,7 +3617,7 @@ Very
 Remote
 10_021_0102_5_3 School Leaver Employment Supports (transitional) Each N/A N/A N/A
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 79 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 84 of 103
 Capacity Building – Improved Relationships
 This support category is for the provision of specialised assessment where a participant may have
 complex or unclear needs, requiring long term or intensive supports to address behaviours of
@@ -3474,6 +3632,10 @@ support persons that will achieve the intended outcome of eliminating or reducin
 concern.
 These support items can be delivered to individual participants subject to the rules set out in the
 NDIS Pricing Arrangements and Price Limits.
+Note: In line with the rules for provider travel for therapy providers, the hourly price limit for provider
+travel is 50% of the regular price limit. For example, where a Specialist Behavioural Intervention
+Practitioner travelled 30 minutes to a participant, the price limit for this travel time would be $58.25,
+not $116.50.
 As well as direct service provision, these support items can be used to claim for:
 • Non-Face-to-Face Support Provision
 • Provider Travel
@@ -3483,16 +3645,7 @@ Providers of this support can also claim for the costs of:
 • Provider Travel – Non-Labour Costs using the support item 01_799_0110_1_1 or
 11_799_0110_7_3.
 These support items are subject to price limits as set out in the following Table.
-Item Number Item Name and Notes Unit 
-NSW
-VIC
-QLD
-ACT
-WA
-SA
-TAS
-NT
-Remote 
+Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
 11_022_0110_7_3 Specialist Behavioural Intervention Support
@@ -3502,17 +3655,17 @@ behaviours of concern.
 • Development of behaviour support plans that
 temporarily use restrictive practices, with intention to
 minimise use of these practices.
-Hour $222.99 $244.22 $341.91 $366.33
+Hour $232.99 $326.19 $349.49
 11_023_0110_7_3 
 Behaviour Management Plan Including Training in
 Behaviour Management Strategies
 • Training for carers and others in behaviour
 management strategies required due the
 participant’s disability.
-Hour $222.99 $244.22 $341.91 $366.33
+Hour $232.99 $326.19 $349.49
 
 Capacity Building – Improved Relationships
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 80 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 85 of 103
 Individual Social Skills Development
 This support item assists participants to develop their social skills for participation in community
 and social activity.
@@ -3531,9 +3684,9 @@ This support item is subject to price limits as set out in the following Table.
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-11_024_0117_7_3 Individual Social Skills Development Hour $77.00 $107.80 $115.50
+11_024_0117_7_3 Individual Social Skills Development Hour $80.06 $112.08 $120.09
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 81 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 86 of 103
 Capacity Building – Improved Health and Wellbeing
 The supports in this support category help participants to improve their health and wellbeing.
 Physical Wellbeing Activities
@@ -3548,6 +3701,10 @@ Diploma) in Fitness or equivalent.
 These support items can be delivered to individual participants or to groups (see Claiming for
 Group-Based Supports) subject to the rules set out in the NDIS Pricing Arrangements and Price
 Limits.
+Note: In line with the rules for provider travel for therapy providers, the hourly price limit for provider
+travel is 50% of the regular price limit. For example, where an Exercise Physiologist travelled 30
+minutes to a participant, the price limit for this travel time would be $41.75, not $83.50.
+Personal trainers are not considered therapy providers.
 As well as direct service provision, these support items can be used to claim for:
 • Non-Face-to-Face Support Provision
 • Provider Travel
@@ -3575,10 +3732,10 @@ Hour $166.99 $233.79 $250.49
 12_029_0126_3_3 
 Personal training provided by a Personal Trainer to a
 participant
-Hour $64.92 $90.89 $97.38
+Hour $67.00 $93.80 $100.50
 
 Capacity Building – Improved Health and Wellbeing
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 82 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 87 of 103
 Dietetics
 This support item provides advice to participants on managing diet for health and wellbeing due to
 the impact of their disability.
@@ -3587,6 +3744,9 @@ This support item can only by the following type of professional:
 of Australia.
 This support item can be delivered to individual participants or to groups (see Claiming for Group-
 Based Supports) subject to the rules set out in the NDIS Pricing Arrangements and Price Limits.
+Note: In line with the rules for provider travel for therapy providers, the hourly price limit for provider
+travel is 50% of the regular price limit. For example, where a Dietitian travelled 30 minutes to a
+participant, the price limit for this travel time would be $47.25, not $94.50.
 As well as direct service provision, this support item can be used to claim for:
 • Non-Face-to-Face Support Provision
 • Provider Travel
@@ -3605,9 +3765,9 @@ Remote
 12_025_0128_3_3 
 Advice provided by a Dietitian on managing diet for
 health and well-being
-Hour $193.99 $271.59 $290.99
+Hour $188.99 $264.59 $283.49
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 83 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 88 of 103
 Capacity Building – Improved Learning
 This support category is for provision of skills training, advice, assistance with arrangements and
 orientation to assist a participant moving from school to further education.
@@ -3633,45 +3793,35 @@ but is subject to the lower price limit as set out above.
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-13_030_0102_4_3 Transition through School and to Further Education Hour $77.00 $107.80 $115.50
+13_030_0102_4_3 Transition through School and to Further Education Hour $80.06 $112.08 $120.09
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 84 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 89 of 103
 Capacity Building – Improved Life Choices
 The supports in this support category help participants with the management of their plans.
 Plan Management – Financial Administration Supports
-These support items allow participants to engage a Plan Manager to manage and monitor budgets
+This support item allows participants to engage a Plan Manager to manage and monitor budgets
 over the course of the plan, manage NDIS claims and pay providers for delivered service, maintain
 records and produce regular (at least monthly) statements showing the financial position of the
 plan.
-These support items can be delivered to individual participants subject to the rules set out in the
-NDIS Pricing Arrangements and Price Limits.
-These support items are subject to price limits as set out in the following Table.
-Item Number Item Name and Notes Unit National Remote 
-Very
-Remote
-14_033_0127_8_3 Plan Management - Set Up Costs
-• A one-off (per plan) fee for setting up the
-financial management arrangements.
-Each $232.35 $325.29 $348.54
+This support item can be delivered to individual participants subject to the rules set out in the NDIS
+Pricing Arrangements and Price Limits.
+This support item are subject to price limits as set out in the following Table.
+Item Number Item Name and Notes Unit National
 14_034_0127_8_3 Plan Management - Monthly Fee
 • A monthly fee for the ongoing maintenance of
 the financial management arrangements.
-Month $104.45 $146.23 $156.67
-Note
-A plan manager can only claim for the support item 14_033_0127_8_3 (Plan Management – Set
-Up Costs) once in respect of each plan. Auto-extended plans are not new plans – they have the
-same plan number. Plan managers are not entitled to make another claim for this support item
-from a plan when it is auto-extended.
+Month $104.45
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 85 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 90 of 103
 Capacity Building – Improved Daily Living
 This support category includes assessment supports, training supports, strategy development
-supports, and therapeutic supports (including Early Childhood Supports) to assist the development
-of, or to increase, a participant’s skills and their capacity for independence and community
-participation.
-Early Childhood Supports (EC) – younger than 7
+supports, and therapeutic supports (including Early Intervention Supports for Early Childhood) to
+assist the development of, or to increase, a participant’s skills and their capacity for independence
+and community participation.
+Early Intervention Supports for Early Childhood Supports – younger
+than 9
 These support items provide capacity building supports in early childhood, including key worker, to
-assist a child (younger than 7) with developmental delay or disability and their family or carers in
+assist a child (younger than 9) with developmental delay or disability and their family or carers in
 home, community, and early childhood education settings, to work towards increased functional
 independence and social participation. It is expected that the supports are delivered in line with the
 NDIS Commission’s NDIS Practice Standards and Quality Indicators for Early Childhood Supports.
@@ -3682,34 +3832,36 @@ These support items can be delivered to individual participants or to groups sub
 out in the NDIS Pricing Arrangements and Price Limits. These support items can only be delivered
 by the following types of professionals (therapy assistants must operate under delegation and
 supervision)
-• Early Childhood Professional – A person who has a bachelor’s degree or higher in their
+• Art Therapist – A person who is a Professional Member with the Australian, New Zealand
+and Asian Creative Arts Therapy Association (ANZACATA).
+• Dietitian – A person who is an Accredited Practising Dietitian with the Dietitians Australia
+• Other Early Childhood Intervention Professional – A person who does not meet the
+definitions of the other professions listed but has a bachelor’s degree or higher in their
 relevant area and holds current registration or membership with their relevant registration
 and or professional body. It is expected that the person delivers supports in line with the
 NDIS Commission’s NDIS Practice Standards and Quality Indicators for Early Childhood
 Supports.
-Early Childhood Professionals include the following types of professionals.
-o Developmental Educator – A person has a bachelor’s degree or higher and has
+• Developmental Educator – A person who has a bachelor’s degree or higher and has
 current full membership with Developmental Educators Australia Inc.
-o Early Childhood Teacher or Educator – A person who has a bachelor’s degree or
-higher in Early Childhood Education or Special Education, who where applicable
-has a current registration or accreditation with their state or territory’s relevant
-professional body.
-o Occupational Therapist – A person who has a current Australian Health Practitioner
+• Early Childhood Teacher or Educator – A person who has a bachelor’s degree or higher in
+Early Childhood Education or Special Education, who where applicable has a current
+registration or accreditation with their state or territory’s relevant professional body.
+• Occupational Therapist – A person who has a current Australian Health Practitioner
 Regulation Agency (AHPRA) Registration as an Occupational Therapist.
-o Social Worker – A person who is a member of the Australian Association of Social
-Workers.
-o Speech Pathologist – A person who is a Certified Practising Speech Pathologist as
+• Social Worker – A person who is a member of the Australian Association of Social Workers.
+• Speech Pathologist – A person who is a Certified Practising Speech Pathologist as
 approved by Speech Pathology Australia.
-o Other Professional – A person who is not one of the types of professionals listed
-above but who has a Bachelor’s degree or higher in their relevant area and holds
-current registration or membership with their relevant registration and or
-professional body.
-• Physiotherapist – A person who has a current AHPRA Registration as a Physiotherapist.
+• Exercise Physiologist – A person who is an Accredited Exercise Physiologist with Exercise
+and Sports Science Australia.
 
 Capacity Building – Improved Daily Living
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 86 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 91 of 103
+• Music Therapist – A person who is an Active “Registered Music Therapist” with the
+Australian Music Therapy Association.
+• Physiotherapist – A person who has a current AHPRA Registration as a Physiotherapist.
 • Psychologist – A person who has a current AHPRA Registration as a Psychologist. This
 includes paid provisionally registered Psychologists operating under supervision.
+• Podiatrist – A person who has a current AHPRA Registration as a Podiatrist.
 • Counsellor – A person who is either a member of the Australian Counselling Association or
 an accredited Registrant with the Psychotherapy and Counselling Federation of Australia,
 or a person who is an AHPRA provisionally registered psychologist operating as a paid
@@ -3720,6 +3872,9 @@ Note: Where a support is delivered by a therapy assistant, they are operating un
 and supervision of an allied health professional. The therapy assistant must be covered by the
 professional indemnity insurance of the supervising allied health professional (or the allied health
 professional’s or therapy assistant's employing provider).
+Note: In line with the rules for provider travel for therapy providers, the hourly price limit for provider
+travel is 50% of the regular price limit. For example, where an Early Childhood Professional
+travelled 30 minutes to a participant, the price limit for this travel time would be $48.50, not $97.00.
 As well as direct service provision, these support items can be used to claim for:
 • Non-Face-to-Face Support Provision
 • Provider Travel
@@ -3733,66 +3888,94 @@ items is delivered to a group, then the price limit for each participant is the 
 Table below divided by the number of people in the group. Providers should make a claim for each
 participant using the relevant support item. Each claim should be for the total time of the support
 but is subject to the lower price limit.
-Item Number Item Name and Notes Unit 
-NSW
-VIC
-QLD
-ACT
-WA
-SA
-TAS
-NT
-Remote 
+Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
 15_005_0118_1_3 
-Early Childhood Supports - Early Childhood
-Professional
-• Developmental Educator
-• Early Childhood Teacher or Educator
-• Occupational Therapist
-• Social Worker
-• Speech Pathologist
-• Other Professional
-Hour $193.99 $193.99 $271.59 $290.99
-15_003_0118_1_3 Early Childhood Supports - Physiotherapist Hour $193.99 $224.62 $314.47 $336.93
-15_001_0118_1_3 Early Childhood Supports - Psychologist
+Early Childhood Intervention Professional -
+Other Early Childhood Professional
+Hour $193.99 $271.59 $290.99
+15_613_0118_1 _3 
+Early Childhood Intervention Professional –
+Developmental educator
+Hour $193.99 $271.59 $290.99
+15_622_0118_1 _3 
+Early Childhood Intervention Professional –
+Speech Pathologist
+Hour $193.99 $271.59 $290.99
+15_625_0118_1 _3 
+Early Childhood Intervention Professional –
+Early Childhood Teacher or Educator
+Hour $193.99 $271.59 $290.99
+15_617_0118_1 _3 
+Early Childhood Intervention Professional –
+Occupational Therapist
+Hour $193.99 $271.59 $290.99
+15_621_0118_1 _3 
+Early Childhood Intervention Professional –
+Social worker
+Hour $193.99 $271.59 $290.99
+
+Capacity Building – Improved Daily Living
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 92 of 103
+15_610_0118_1 _3 
+Early Childhood Intervention Professional –
+Art Therapist
+Hour $193.99 $271.59 $290.99
+15_615_0118_1 _3 
+Early Childhood Intervention Professional –
+Music Therapist
+Hour $193.99 $271.59 $290.99
+15_619_0118_1 _3 
+Early Childhood Intervention Professional –
+Podiatrist
+Hour $188.99 $264.59 $283.49
+15_062_0118_1_3 
+Early Childhood Intervention Professional –
+Dietitian
+Hour $188.99 $264.59 $283.49
+15_003_0118_1_3 
+Early Childhood Intervention Professional -
+Physiotherapist
+Hour $183.99 $257.59 $275.99
+15_001_0118_1_3 
+Early Childhood Intervention Professional -
+Psychologist
 • This includes paid provisionally registered
 Psychologists operating under
 supervision.
-Hour $222.99 $244.22 $341.91 $366.33
-15_606_0118_1_3 Early Childhood Supports - Counsellor
+Hour $232.99 $326.19 $349.49
+15_606_0118_1_3 
+Early Childhood Intervention Professional -
+Counsellor
 • Paid unsupervised provisionally
 registered psychologists can claim using
 this line item.
-Hour $156.16 $156.16 $218.62 $234.24
+Hour $156.16 $218.62 $234.24
 15_609_0118_1_3 
-Early Childhood Supports - Exercise
-Physiologist
-Hour $166.99 $166.99 $233.79 $250.49
+Early Childhood Intervention Professional -
+Exercise Physiologist
+Hour $166.99 $233.79 $250.49
 15_007_0118_1_3 
-Early Childhood Supports - Therapy
-Assistant - Level 1
+Early Childhood Intervention Professional -
+Therapy Assistant - Level 1
 • Support must be delivered by a therapy
 assistant working under the delegation
-Hour $56.16 $56.16 $78.62 $84.24
-
-Capacity Building – Improved Daily Living
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 87 of 97
 and direct supervision at all times of a
 therapist.
+Hour $56.16 $78.62 $84.24
 15_008_0118_1_3 
-Early Childhood Supports - Therapy
-Assistant - Level 2
+Early Childhood Intervention Professional -
+Therapy Assistant - Level 2
 • Support must be delivered by a therapy
 assistant working under the delegation
 and supervision of a therapist, where
 the therapist is satisfied that the therapy
 assistant is able to work independently
 without direct supervision at all times.
-Hour $86.79 $86.79 $121.51 $130.19
-Therapy Supports (7 or older)
-These support items provide therapeutic services to participants (7 or older). Therapy supports are
+Hour $86.79 $121.51 $130.19
+Therapy Supports (9 or older)
+These support items provide therapeutic services to participants (9 or older). Therapy supports are
 for participants with an established disability to facilitate functional improvement, where maximum
 medical improvement has been reached. For people who access the Scheme as ‘early
 intervention’ participants, reasonable and necessary supports are likely to be a blend of medical
@@ -3811,6 +3994,9 @@ body system, as these supports are more appropriately funded by the health syste
 These support items can also be used for the assessment, planning, and delivery of Disability-
 Related Health Supports where these supports directly relate to a participant’s significant and
 permanent functional impairment and assist them to undertake activities of daily living.
+
+Capacity Building – Improved Daily Living
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 93 of 103
 These support items can be delivered to individual participants or to groups subject to the rules set
 out in the NDIS Pricing Arrangements and Price Limits. In particular, these support items can only
 be delivered by the following types of professionals, and by therapy assistants operating under the
@@ -3827,9 +4013,6 @@ unsupervised practitioner can claim using this line item.
 • Developmental Educator – A person who is a Full Member of Developmental Educators
 Australia Inc.
 • Dietitian – A person who is an Accredited Practising Dietitian with the Dietitians Australia.
-
-Capacity Building – Improved Daily Living
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 88 of 97
 • Exercise Physiologist – A person who is an Accredited exercise physiologist with Exercise
 and Sports Science Australia.
 • Music Therapist – A person who is an Active “Registered Music Therapist” with the
@@ -3856,6 +4039,12 @@ and experience should use the “Other Professional” support item.
 Note: Where a support is delivered by a therapy assistant, the therapy assistant must be covered
 by the professional indemnity insurance of the supervising therapist (or the therapist's or therapy
 assistant's employing provider).
+
+Capacity Building – Improved Daily Living
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 94 of 103
+Note: In line with the rules for provider travel for therapy providers, the hourly price limit for provider
+travel is 50% of the regular price limit. For example, where an Occupational Therapist travelled 30
+minutes to a participant, the price limit for this travel time would be $48.50, not $97.00.
 As well as direct service provision, these support items can be used to claim for:
 • Non-Face-to-Face Support Provision
 • Provider Travel
@@ -3870,101 +4059,95 @@ items is delivered to a group, then the price limit for each participant is the 
 Table below divided by the number of people in the group. Providers should make a claim for each
 participant using the relevant support item. Each claim should be for the total time of the support
 but is subject to the lower price limit.
-
-Capacity Building – Improved Daily Living
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 89 of 97
-Item Number Item Name and Notes Unit 
-NSW
-VIC
-QLD
-ACT
-WA
-SA
-TAS
-NT
-Remote 
+Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
 15_610_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Art Therapist
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 15_611_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Audiologist
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 15_043_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Counsellor
 • Paid unsupervised provisionally
 registered psychologists can claim using
 this line item.
-Hour $156.16 $156.16 $218.62 $234.24
+Hour $156.16 $218.62 $234.24
 15_613_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Developmental Educator
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 15_062_0128_3_3 
 Assessment Recommendation Therapy or
 Training - Dietitian
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $188.99 $264.59 $283.49
 15_200_0126_1_3 
 Assessment Recommendation Therapy or
 Training - Exercise Physiologist
-Hour $166.99 $166.99 $233.79 $250.49
+Hour $166.99 $233.79 $250.49
 15_200_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Exercise Physiologist
-Hour $166.99 $166.99 $233.79 $250.49
+Hour $166.99 $233.79 $250.49
 15_615_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Music Therapist
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 15_617_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Occupational Therapist
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 15_618_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Orthoptist
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 15_055_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Physiotherapist
-Hour $193.99 $224.62 $314.47 $336.93
+Hour $183.99 $257.59 $275.99
 15_619_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Podiatrist
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $188.99 $264.59 $283.49
 15_054_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Psychologist
 • This includes paid provisionally registered
 Psychologists operating under
 supervision.
-Hour $222.99 $244.22 $341.91 $366.33
+Hour $232.99 $326.19 $349.49
 15_620_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Rehabilitation Counsellor
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 15_621_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Social Worker
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
+
+Capacity Building – Improved Daily Living
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 95 of 103
+Item Number Item Name and Notes Unit National Remote 
+Very
+Remote
 15_622_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Speech Pathologist
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 15_056_0128_1_3 
 Assessment Recommendation Therapy or
 Training - Other Professional
-Hour $193.99 $193.99 $271.59 $290.99
+Hour $193.99 $271.59 $290.99
 15_052_0128_1_3 Therapy Assistant - Level 1
 • Support must be delivered by a therapy
 assistant working under the delegation
 and direct supervision at all times of a
 therapist.
-Hour $56.16 $56.16 $78.62 $84.24
+Hour $56.16 $78.62 $84.24
 15_053_0128_1_3 Therapy Assistant - Level 2
 • Support must be delivered by a therapy
 assistant working under the delegation
@@ -3972,15 +4155,12 @@ and supervision of a therapist, where
 the therapist is satisfied that the therapy
 assistant is able to work independently
 without direct supervision at all times.
-Hour $86.79 $86.79 $121.51 $130.19
+Hour $86.79 $121.51 $130.19
 Community Engagement Assistance
 This support item entails the provision to a participant of a support to empower participants and
 improve interactions between participants and their social networks, or the provision of support to a
 participant to assist them to engage effectively in the community through a group approach to help
 achieve goals, gain insight into their lives, and make informed decisions.
-
-Capacity Building – Improved Daily Living
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 90 of 97
 This support item can be delivered to individual participants or to groups subject to the rules set out
 in the NDIS Pricing Arrangements and Price Limits. As well as direct service provision, this support
 item can be used to claim for:
@@ -3995,7 +4175,7 @@ below.
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-15_045_0128_1_3 Community Engagement Assistance Hour $49.61 $69.45 $74.42
+15_045_0128_1_3 Community Engagement Assistance Hour $51.20 $71.68 $76.80
 Hearing Supports
 These support items provide for hearing services not covered under the MBS performed by a
 suitably qualified Audiologist or Audiometrist.
@@ -4005,9 +4185,15 @@ following types of professionals:
 • Audiologist – A person who is either currently certified as an Audiology Australia Accredited
 Audiologist or who is a Current Full Member as an audiologist of the Australian College of
 Audiology.
+
+Capacity Building – Improved Daily Living
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 96 of 103
 • Audiometrist – A person who is either a Current Full Member of the Hearing Aid
 Audiometrist Society of Australia or who is a Current Full Member as an audiometrist of the
 Australian College of Audiology.
+Note: In line with the rules for provider travel for therapy providers, the hourly price limit for provider
+travel is 50% of the regular price limit. For example, where an audiologist travelled 30 minutes to a
+participant, the price limit for this travel time would be $48.50, not $97.00.
 As well as direct service provision, these support items can be used to claim for:
 • Non-Face-to-Face Support Provision
 • Provider Travel
@@ -4024,9 +4210,6 @@ Remote
 15_501_0119_1_3 Provision of Hearing Services by an Audiologist Hour $193.99 $271.59 $290.99
 15_502_0134_1_3 Provision of Hearing Services by an Audiologist Hour $193.99 $271.59 $290.99
 15_503_0134_1_3 Provision of Hearing Services by an Audiometrist Hour $166.83 $233.56 $250.25
-
-Capacity Building – Improved Daily Living
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 91 of 97
 Multidisciplinary Team Supports
 This support item enables a coordinated multidisciplinary approach to be delivered to participants 7
 or older. All team members will claim against a single support item, thereby increasing flexibility in
@@ -4048,6 +4231,9 @@ Limits. In particular:
 support would be classified as an Enrolled nurse under the Nurses Award 2020 (A.4) if they
 were classified under that Award. An enrolled nurse is a person who provides nursing care
 under the direct or indirect supervision of a registered nurse. They have completed the
+
+Capacity Building – Improved Daily Living
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 97 of 103
 prescribed education preparation and demonstrated competence to practice under the
 Health Practitioner Regulation National Law as an enrolled nurse in Australia. Enrolled
 nurses are accountable for their own practice and remain responsible to a registered nurse
@@ -4071,9 +4257,6 @@ under the Nurses Award 2020 (A.5.3) if they were classified under that Award. Un
 Award, a clinical nurse consultant is a nurse practicing in the advanced practice role.
 Advanced practice nursing is a qualitatively different level of advanced nursing practice to
 that of the registered nurse due to the additional legislative functions and the regulatory
-
-Capacity Building – Improved Daily Living
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 92 of 97
 requirements. The requirements include a prescribed educational level, a specified
 advanced nursing practice experience, and continuing professional development.
 • The nurse practitioner support items should be used when the nurse who delivered the
@@ -4098,129 +4281,132 @@ Remote
 15_400_0114_1_3 
 Delivery of Health Supports by an Enrolled Nurse -
 Weekday Daytime
-Hour $96.78 $135.49 $145.17
-15_401_0114_1_3 
-Delivery of Health Supports by an Enrolled Nurse -
-Weekday Evening
-Hour $106.76 $149.46 $160.14
-15_405_0114_1_3 
-Delivery of Health Supports by an Enrolled Nurse -
-Weekday Night
-Hour $108.74 $152.24 $163.11
-15_402_0114_1_3 
-Delivery of Health Supports by an Enrolled Nurse -
-Saturday
-Hour $138.06 $193.28 $207.09
-15_403_0114_1_3 
-Delivery of Health Supports by an Enrolled Nurse -
-Sunday
-Hour $158.71 $222.19 $238.07
-15_404_0114_1_3 
-Delivery of Health Supports by an Enrolled Nurse -
-Public Holiday
-Hour $179.34 $251.08 $269.01
-15_406_0114_1_3 
-Delivery of Health Supports by a Registered Nurse
-- Weekday Daytime
-Hour $119.82 $167.75 $179.73
-15_407_0114_1_3 
-Delivery of Health Supports by a Registered Nurse
-- Weekday Evening
-Hour $132.18 $185.05 $198.27
-15_411_0114_1_3 
-Delivery of Health Supports by a Registered Nurse
-- Weekday Night
-Hour $134.64 $188.50 $201.96
-15_408_0114_1_3 
-Delivery of Health Supports by a Registered Nurse
-- Saturday
-Hour $171.00 $239.40 $256.50
-15_409_0114_1_3 
-Delivery of Health Supports by a Registered Nurse
-- Sunday
-Hour $196.58 $275.21 $294.87
-15_410_0114_1_3 
-Delivery of Health Supports by a Registered Nurse
-- Public Holiday
-Hour $222.16 $311.02 $333.24
-15_412_0114_1_3 
-Delivery of Health Supports by a Clinical Nurse -
-Weekday Daytime
-Hour $138.60 $194.04 $207.90
-15_413_0114_1_3 
-Delivery of Health Supports by a Clinical Nurse -
-Weekday Evening
-Hour $152.88 $214.03 $229.32
-15_417_0114_1_3 
-Delivery of Health Supports by a Clinical Nurse -
-Weekday Night
-Hour $155.75 $218.05 $233.63
-15_414_0114_1_3 
-Delivery of Health Supports by a Clinical Nurse -
-Saturday
-Hour $197.79 $276.91 $296.69
-15_415_0114_1_3 
-Delivery of Health Supports by a Clinical Nurse -
-Sunday
-Hour $227.39 $318.35 $341.09
+Hour $99.88 $139.83 $149.82
 
 Capacity Building – Improved Daily Living
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 93 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 98 of 103
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
+15_401_0114_1_3 
+Delivery of Health Supports by an Enrolled Nurse -
+Weekday Evening
+Hour $110.18 $154.25 $165.27
+15_405_0114_1_3 
+Delivery of Health Supports by an Enrolled Nurse -
+Weekday Night
+Hour $112.22 $157.11 $168.33
+15_402_0114_1_3 
+Delivery of Health Supports by an Enrolled Nurse -
+Saturday
+Hour $142.48 $199.47 $213.72
+15_403_0114_1_3 
+Delivery of Health Supports by an Enrolled Nurse -
+Sunday
+Hour $163.79 $229.31 $245.69
+15_404_0114_1_3 
+Delivery of Health Supports by an Enrolled Nurse -
+Public Holiday
+Hour $185.08 $259.11 $277.62
+15_406_0114_1_3 
+Delivery of Health Supports by a Registered Nurse
+- Weekday Daytime
+Hour $123.65 $173.11 $185.48
+15_407_0114_1_3 
+Delivery of Health Supports by a Registered Nurse
+- Weekday Evening
+Hour $136.41 $190.97 $204.62
+15_411_0114_1_3 
+Delivery of Health Supports by a Registered Nurse
+- Weekday Night
+Hour $138.95 $194.53 $208.43
+15_408_0114_1_3 
+Delivery of Health Supports by a Registered Nurse
+- Saturday
+Hour $176.47 $247.06 $264.71
+15_409_0114_1_3 
+Delivery of Health Supports by a Registered Nurse
+- Sunday
+Hour $202.87 $284.02 $304.31
+15_410_0114_1_3 
+Delivery of Health Supports by a Registered Nurse
+- Public Holiday
+Hour $229.27 $320.98 $343.91
+15_412_0114_1_3 
+Delivery of Health Supports by a Clinical Nurse -
+Weekday Daytime
+Hour $143.04 $200.26 $214.56
+15_413_0114_1_3 
+Delivery of Health Supports by a Clinical Nurse -
+Weekday Evening
+Hour $157.77 $220.88 $236.66
+15_417_0114_1_3 
+Delivery of Health Supports by a Clinical Nurse -
+Weekday Night
+Hour $160.73 $225.02 $241.10
+15_414_0114_1_3 
+Delivery of Health Supports by a Clinical Nurse -
+Saturday
+Hour $204.12 $285.77 $306.18
+15_415_0114_1_3 
+Delivery of Health Supports by a Clinical Nurse -
+Sunday
+Hour $234.67 $328.54 $352.01
 15_416_0114_1_3 
 Delivery of Health Supports by a Clinical Nurse -
 Public Holiday
-Hour $256.98 $359.77 $385.47
+Hour $265.20 $371.28 $397.80
 15_418_0114_1_3 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Weekday Daytime
-Hour $163.91 $229.47 $245.87
+Hour $169.16 $236.82 $253.74
 15_419_0114_1_3 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Weekday Evening
-Hour $180.84 $253.18 $271.26
+Hour $186.63 $261.28 $279.95
 15_423_0114_1_3 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Weekday Night
-Hour $184.22 $257.91 $276.33
+Hour $190.12 $266.17 $285.18
 15_420_0114_1_3 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Saturday
-Hour $234.03 $327.64 $351.05
+Hour $241.52 $338.13 $362.28
 15_421_0114_1_3 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Sunday
-Hour $269.08 $376.71 $403.62
+Hour $277.69 $388.77 $416.54
 15_422_0114_1_3 
 Delivery of Health Supports by a Clinical Nurse
 Consultant - Public Holiday
-Hour $304.13 $425.78 $456.2
+Hour $313.86 $439.40 $470.79
 15_424_0114_1_3 
 Delivery of Health Supports by a Nurse Practitioner
 - Weekday Daytime
-Hour $171.37 $239.92 $257.06
+Hour $176.85 $247.59 $265.28
 15_425_0114_1_3 
 Delivery of Health Supports by a Nurse Practitioner
 - Weekday Evening
-Hour $189.04 $264.66 $283.56
+Hour $195.09 $273.13 $292.64
 15_429_0114_1_3 
 Delivery of Health Supports by a Nurse Practitioner
 - Weekday Night
-Hour $192.59 $269.63 $288.89
+Hour $198.75 $278.25 $298.13
 15_426_0114_1_3 
 Delivery of Health Supports by a Nurse Practitioner
 - Saturday
-Hour $244.68 $342.55 $367.02
+Hour $252.51 $353.51 $378.77
 15_427_0114_1_3 
 Delivery of Health Supports by a Nurse Practitioner
 - Sunday
-Hour $281.33 $393.86 $422.00
+Hour $290.33 $406.46 $435.50
 15_428_0114_1_3 
 Delivery of Health Supports by a Nurse Practitioner
 - Public Holiday
-Hour $317.98 $445.17 $476.97
+Hour $328.16 $459.42 $492.24
+
+Capacity Building – Improved Daily Living
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 99 of 103
 Specialised Driver Training Support
 This support item provides driving lessons required due to the impact of a participant’s disability.
 This item should be in response to an assessment by a specialist Driver Trained Occupational
@@ -4243,46 +4429,44 @@ As well as direct service provision, these support item can be used to claim for
 • Provider Travel
 • Short Notice Cancellation – 7 days
 • NDIA Requested Reports
-
-Capacity Building – Improved Daily Living
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 94 of 97
 Providers of this support can also claim for the costs of:
 • Provider Travel – Non-Labour Costs using support item 15_799_0106_1_3 or
 15_799_0117_1_3 or 01_799_0135_1_1 or 15_799_0135_1_3, depending on their
 Registration Group.
 These support items are subject to the price limits set out in the following Table.
-Item Number Item Name and Notes Unit National Remote 
-Very
-Remote
+Item Number Item Name and Notes Unit National Remote Very Remote
 15_035_0106_1_3 
 Assistance With Decision Making Daily Planning
 and Budgeting
 • Provision of time limited support to assist a
 person to develop and maintain daily budget,
 including assisting in planning purchases.
-Hour $67.56 $94.58 $101.34
+Hour $70.23 $98.32 $105.35
 15_037_0117_1_3 
 Skill Development And Training including Public
 Transport Training
 • Individual training provided in the home or in
-the community for general life skills to increase
-independence.
-Hour $67.56 $94.58 $101.34
+the community for general life skills to
+increase independence.
+Hour $70.23 $98.32 $105.35
 15_038_0117_1_3 Training For Carers/Parents
 • Training for carers in matters related to caring
 for a person with disability.
-Hour $77.00 $107.80 $115.50
+Hour $80.06 $112.08 $120.09
 15_047_0135_1_3 
 Selection and/or Manufacture of Customised or
 Wearable Technology
 Hour $193.99 $271.59 $290.99
+
+Capacity Building – Improved Daily Living
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 100 of 103
 Low Cost AT to support Capacity Building support delivery
 This support item was created in response to the increased need for online appointments (web,
 telehealth or application-based approaches) given the suspension of face-to-face services due to
 the social distancing regulations. It can be used to purchase low cost smart devices.
 This support item can be delivered to individual participants subject to the rules set out the NDIS
 Pricing Arrangements and Price Limits.
-This support item is not subject to price limits. See page 15 for further information on how to claim
+This support item is not subject to price limits. See page 19 for further information on how to claim
 for support items that are not subject to a price limit.
 Item Number Item Name and Notes Unit National Remote 
 Very
@@ -4301,9 +4485,6 @@ Participants should not spend more than $750 on electronic devices needed to mai
 services. In the case of computer tablets or iPads for telehealth and care or participating in online
 video classes, advice from AT specialists is that most NDIS participants will not need more than a
 standard tablet, which costs no more than $600.
-
-Capacity Building – Improved Daily Living
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 95 of 97
 The following items and circumstances are excluded from this policy:
 • The item does not relate to the participants disability. A participant cannot purchase a smart
 device for entertainment, education, or gaming. A participant cannot purchase fitness
@@ -4323,6 +4504,9 @@ conferencing and other functionality participants will need to access supports i
 tablets, iPads, or computers that are in scope and connect using Wi-Fi.
 • Participants cannot purchase multiple devices. A single item can be purchased, where the
 participant does not already own or have access to a device that would meet their needs to
+
+Capacity Building – Improved Daily Living
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 101 of 103
 continue to access supports and services. This includes if the participant already owns or has
 access to a suitable device through:
 o existing individual or family ownership
@@ -4340,14 +4524,14 @@ connection cables
 Additional hardware and accessories may be purchased if they relate to using the device because
 of the participant’s disability, such as mounting on a wheelchair for a person with limited grip or
 rugged case where related to behaviour issues.
+
+Capacity Building – Improved Daily Living
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 102 of 103
 Assistive Technology Mentors (AT Mentors)
 This support item enables provision of independent, qualified advice and assistance for
 participants to identify, select and use appropriate assistive technology to meet their disability
 related needs. AT Mentors are currently authorised as AT Advisors under the NDIS Guidelines for
 Assistive Technology, but may not provide AT Assessment services. They can provide capacity
-
-Capacity Building – Improved Daily Living
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 96 of 97
 building and peer support to participants receiving AT Assessment services, or higher cost AT
 products, but must do so under the oversight of a suitably qualified AT Assessor.
 The work of AT Mentors requires lived and/or learnt experience of disability and AT. AT Mentors
@@ -4366,31 +4550,9 @@ These support items are subject to price limits as set out in the following Tabl
 Item Number Item Name and Notes Unit National Remote 
 Very
 Remote
-15_300_0103_1_3 Assistive Technology Mentoring Hour $101.42 $141.99 $152.13
+15_300_0103_1_3 Assistive Technology Mentoring Hour $105.43 $147.60 $158.15
 
-NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 97 of 97
+NDIS Pricing Arrangements and Price Limits 2025-26 Version 1.0 (published 16/06/2025) Page 103 of 103
 Appendix A: History of Changes
 Version Page(s) Details of Amendment Date Published Date of Effect
-1.0 NA NDIS Pricing Arrangements and Price Limits 2024-25 28 June 2024 1 July 2024
-1.1 19 Provider travel guidance updated from $0.97 per km to $0.99 per
-km.
-5 July 2024 1 July 2024
-1.1 77 
-Price limit corrections to Behaviour Management Plan support
-items to $222.99 (for NSW,VIC,QLD,ACT) $244.22 (for
-WA,SA,TAS,NT), $341.91 (Remote), $366.33 (Very Remote)
-5 July 2024 1 July 2024
-1.2 77 Decimal Point ypo on Behaviour Management Plan price limit in
-NSW to adjust to $222.99
-9 July 2024 1 July 2024
-1.3 38 Introduction of Intensive and Complex Behaviour supports
-policy
-1 October 2024 1 October 2024
-1.3 23 Short notice cancellation period has been clarified from 7
-business day to 7 days. An additional example is provided
-demonstrating the policy’s application.
-1 October 2024 1 October 2024
-1.3 55, 56,
-75, 86 -
-89
-Claiming clarification regarding provisional psychologist. 1 October 2024 1 October 2024
+1.0 NA NDIS Pricing Arrangements and Price Limits 2025-26 16 June 2025 1 July 2025
